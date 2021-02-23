@@ -46,7 +46,7 @@ class SpotifyClient:
         return tracks
 
     # checking out spotify api endpoint reference....  BROWSE ~ they have
-    # all the metrics already listed O.o
+    # all the metrics already listed...
     """
     https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-recommendations
     https://developer.spotify.com/documentation/web-api/reference/#category-browse
