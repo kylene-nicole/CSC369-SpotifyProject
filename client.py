@@ -15,7 +15,7 @@ class SpotifyClient:
         self.authorization_token = authorization_token
         self.spotify_id = spotify_id
 
-    def playlist_title_prompt(self):
+    def playlist_title_prompt():
         """
         Prompt the user for their playlist URI, we will extract the ID from that
         Example: spotify:playlist:6hzUZESozP9M7qKxJ8voKe
@@ -24,21 +24,23 @@ class SpotifyClient:
         """
         print("Please retrieve your Spotify Playlist URI so we can recommend you songs!")
         print("*** How? ***\n > Right-click on your playlist in Spotify")
-        print("\n > Share \n > Copy Spotify URI \n *** *** ***")
+        print(" > Click Share \n > Click Copy Spotify URI \n *** *** ***")
 
         spotify_uri = input("Paste Spotify URI here: ")
-        self.spotify_id = spotify_uri[17:]
-        return self.spotify_id
+        spotify_id = spotify_uri[17:]
+        print(spotify_id) # temporary 
+        return spotify_id
 
-   # video uses the history instad of playlist... alter this for our project
-    def get_playlist_tracks(self, limit = 10): #limit? come back to this
+    def get_playlist_tracks(self, limit = 10): #limit...
         """
         :param limit (int): number of tracks to get... should be less than X
         :param playlist_id (str): the Spotify Playlist ID extracted from user URI
         :return tracks (list of tracks): List of the playlist tracks
         """
+        spotify_id = self.playlist_title_prompt()
+        print(spotify_id)
         #with or without requests.get.... ?
-        url = requests.get(f"https://api.spotify.com/v1/playlists/{self.spotify_id}")
+        url = f"https://api.spotify.com/v1/playlists/{spotify_id}"
         response = self._place_get_api_request(url)
 
         response_json = response.json()
@@ -97,3 +99,7 @@ class Track:
 
 if __name__ == '__main__':
     SpotifyClient.playlist_title_prompt()
+
+
+
+
