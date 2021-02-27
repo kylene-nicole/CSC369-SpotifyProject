@@ -10,6 +10,7 @@ class Track:
         self.id = id
         self.artist = artist
 
+    # i dont think we need this since we are just outputtng a song not playlist
     def create_spotify_uri(self):
         return f"spotify:track:{self.id}"
 
