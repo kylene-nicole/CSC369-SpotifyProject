@@ -93,3 +93,6 @@ class Track:
 
     def __str__(self):
         return f"{self.name} by {self.artist}"
+
+if __name__ == '__main__':
+    SpotifyClient.playlist_title_prompt()
