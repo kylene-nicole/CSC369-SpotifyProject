@@ -47,6 +47,8 @@ class SpotifyClient:
             }
         )
 
+        # unsure how to grab the right data/format... 
+        
         response_json = response.json()
         print(response_json)
         
