@@ -48,7 +48,7 @@ class SpotifyClient:
         )
 
         # unsure how to grab the right data/format... 
-        
+
         response_json = response.json()
         print(response_json)
         
@@ -69,6 +69,8 @@ class SpotifyClient:
     https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-recommendations
     https://developer.spotify.com/documentation/web-api/reference/#category-browse
     """
+
+    # not completed for comparison yet...
     def get_recommendations(self, seed_tracks):
         """
         """
