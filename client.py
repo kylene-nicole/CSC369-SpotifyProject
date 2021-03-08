@@ -12,8 +12,9 @@ class SpotifyClient:
         :param authorization_token (str): Spotify API token
         :param user_id (int): Spotify user id
         """
-        self.api_token = api_token;
+        self.api_token = api_token
         self.spotify_id = spotify_id
+        self.response_json = None
 
     def playlist_title_prompt(self):
         """
@@ -47,16 +48,14 @@ class SpotifyClient:
             }
         )
 
-        # unsure how to grab the right data/format... 
-
-        response_json = response.json()
-        print(response_json)
+        self.response_json = response.json()
+        print(self.response_json)
         
         print('**************')
         
-        results = response_json['tracks']['items']
+        #results = response_json['tracks']['items']
         
-        print(results)
+        #print(results)
        
         """
         https://developer.spotify.com/documentation/web-api/reference/#object-playlistobject
@@ -69,8 +68,6 @@ class SpotifyClient:
     https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-recommendations
     https://developer.spotify.com/documentation/web-api/reference/#category-browse
     """
-
-    # not completed for comparison yet...
     def get_recommendations(self, seed_tracks):
         """
         """
@@ -92,11 +89,14 @@ class SpotifyClient:
 
 def main():
     # Normally would use an OS to store this but cant if we are working together...
-    SPOTIFY_AUTH_TOKEN = 'BQDbkW7L3YCgPtyJ3mq048rNzSprTNFAz25oYVgoXGO1bmizUHujpulYnS4L5o0dPl8H_wVp97iruUBbdifX3ioni9N9Nr442_1iCP9ykQpdLo08XkfEKs8QiHFzwWMshRp9LKqK2lC07a_4UdrJq40iiJlCghQ'
+    SPOTIFY_AUTH_TOKEN = 'BQBdDRxg2FxcZ2AoSp9DUJQTi5NcX1uRWnwLmst0nHypW0-YMw_WGvSm00j4AHMTGZf-Z6VcE51PqXeLb0vYpSZ8zpDDCbKzq4_q94KVac1wlGk3_egC8cydo5LXEyEHvCXOXjEpzjIt2Pb7UuWrRH-MDZk-sGA'
     sc = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
     
     sc.playlist_title_prompt()
     sc.get_playlist_tracks()
+    #sc.response_json
+    
+    
     
     #get recommendations...\
     #output song.
@@ -104,3 +104,22 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+# ----------------------------
+
+
+# for rachel!
+# Normally would use an OS to store this but cant if we are working together...SPOTIFY_AUTH_TOKEN = 'BQBdDRxg2FxcZ2AoSp9DUJQTi5NcX1uRWnwLmst0nHypW0-YMw_WGvSm00j4AHMTGZf-Z6VcE51PqXeLb0vYpSZ8zpDDCbKzq4_q94KVac1wlGk3_egC8cydo5LXEyEHvCXOXjEpzjIt2Pb7UuWrRH-MDZk-sGA'
+sc = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
+    
+sc.playlist_title_prompt()
+sc.get_playlist_tracks()
+print(sc.response_json)
+    
+    
+    
+#get recommendations...\
+#output song.
+#WEB API?
