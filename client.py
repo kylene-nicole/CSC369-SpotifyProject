@@ -123,3 +123,14 @@ print(sc.response_json)
 #get recommendations...\
 #output song.
 #WEB API?
+
+# notes
+['tracks']['items']
+spotify:playlist:1GN4sQhsGhAOfxIaURcC9c
+        
+        songid
+        artist
+        name
+        artist id
+        popular id
+        > ALS jonathan
