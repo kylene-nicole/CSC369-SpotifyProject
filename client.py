@@ -117,7 +117,7 @@ import numpy as np
 import dask.dataframe as dd
 import dask.array as da
 
-SPOTIFY_AUTH_TOKEN = 'BQADgNfZowgzgVOgMq5hr3QmKZjXzLG4Q_4Pw1i4BxVc3Znz0k9zrHG4iUBOzDu3iRRCp9jhle0_qHmmKIY'
+SPOTIFY_AUTH_TOKEN = 'BQA22Pjmblpb57wnSHEtxVhy__JW_ejfbUkAXicEiSbs21APAFXCcT3cw_pfb_7WhhO3NJ8ruWmIhZCr-JY'
 
 # ----------------------------
 
@@ -126,33 +126,60 @@ SPOTIFY_AUTH_TOKEN = 'BQADgNfZowgzgVOgMq5hr3QmKZjXzLG4Q_4Pw1i4BxVc3Znz0k9zrHG4iU
 # Normally would use an OS to store this but cant if we are working together...SPOTIFY_AUTH_TOKEN = 'BQBdDRxg2FxcZ2AoSp9DUJQTi5NcX1uRWnwLmst0nHypW0-YMw_WGvSm00j4AHMTGZf-Z6VcE51PqXeLb0vYpSZ8zpDDCbKzq4_q94KVac1wlGk3_egC8cydo5LXEyEHvCXOXjEpzjIt2Pb7UuWrRH-MDZk-sGA'
 spotC = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
 
+# Run script 
 spotC.playlist_title_prompt()
 spotC.get_playlist_tracks(0)
 playlist_json = spotC.response_json
-print(spotC.response_json)
+spotC.response_json
 
-a = pd.DataFrame()
+# +
+# create initial data set (don't use after first run)
+first = pd.DataFrame()
 l_a = []
 for i in playlist_json['items']:
     song = i['track']
-    l_a.append([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
-#     print(i['track']['artists'][0]['name'], i['track']['name'])
-b = pd.DataFrame(l_a)
-a = a.append(b, ignore_index = True)
-a.columns = ['artist', 'song', 'song_id', 'user_id', 'rating']
-a[1:50]
+    l_a.append([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'], spotC.spotify_id, 1])
+    
+temp = pd.DataFrame(l_a)
+first = first.append(temp, ignore_index = True)
+first.columns = ['artist', 'song', 'song_id', 'user_id', 'playlist_id', 'rating']
+first.to_csv(r'data.txt', index=None, sep=',')
+first
 
 # +
-# initial_df = dd.read_csv("data.txt")
-# l_a = []
-# for i in playlist_json['items']:
-#     song = i['track']
-#     l_a.append([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
-# initial_df.append(l_a)
-# pd.Series([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
+# append to dataset
+
+initial_pd = pd.read_csv("data.txt")
+list_add = []
+for i in playlist_json['items']:
+    song = i['track']
+    list_add.append([song['artists'][0]['name'], song['name'], song['id'], int(i['added_by']['id']), spotC.spotify_id, 1])
+new_pd = pd.DataFrame(list_add, columns = ['artist', 'song', 'song_id', 'user_id', 'playlist_id', 'rating'])
+new_pd.astype({'user_id' : initial_pd['user_id'].dtype.name})
+final_pd = pd.concat([initial_pd, new_pd], ignore_index = True).drop_duplicates().reset_index(drop=True)
+final_pd.to_csv(r'data.txt', index=None, sep=',')
+final_pd
+
+
 # -
 
-l_a
+initial_dd = dd.read_csv("data.txt")
+list_dd = []
+for i in playlist_json['items']:
+    song = i['track']
+    list_dd.append([song['artists'][0]['name'], song['name'], song['id'], int(i['added_by']['id']), spotC.spotify_id, 1])
+new_pd = pd.DataFrame(list_add, columns = ['artist', 'song', 'song_id', 'user_id', 'playlist_id', 'rating'])
+new_pd.astype({'user_id' : initial_pd['user_id'].dtype.name})
+new_dd = dd.from_pandas(new_pd, chunksize = 50)
+final_dd = dd.concat([initial_pd, new_pd], axis=0,interleave_partitions=True).drop_duplicates().reset_index(drop=True)
+# final_pd.to_csv(r'data.txt', index=None, sep=',')
+# final_pd.drop_duplicates()
+final_dd.head()
+initial_df = dd.read_csv("data.txt")
+initial_df.head()
+
+
+l_a = pd.Series(dtype = 'object')
 
 # get recommendations...\
 # output song.

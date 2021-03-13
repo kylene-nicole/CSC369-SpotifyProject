@@ -1,1 +1,20 @@
-artist,song,song_id,user_id,rating
+artist,song,song_id,user_id,playlist_id,rating
+George Ezra,Budapest,7q0aQpiLv5tIsupcgQ3Ny4,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Phum Viphurit,Lover Boy,2rd4FH1cSaWGc0ZiUaMbX9,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Donnie Trumpet & The Social Experiment,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Rex Orange County,Sunflower,4EpZ4eYuZOwPSSwyqpdHnJ,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Frank Ocean,Super Rich Kids,0725YWm6Z0TpZ6wrNk64Eb,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Chance the Rapper,Juke Jam (feat. Justin Bieber & Towkio),3eze1OsZ1rqeXkKStNfTmi,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Corinne Bailey Rae,Put Your Records On,2nGFzvICaeEWjIrBrL2RAx,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+BØRNS,Electric Love,2GiJYvgVaD2HtM8GqD9EgQ,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Drake,Passionfruit,5mCPDVBb16L4XQwDdbRUpz,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Chance the Rapper,Same Drugs,6m9qPYXmhge2QhBLfFKnVF,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Kanye West,Ultralight Beam,1eQBEelI2NCy7AUTerX0KS,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Frank Ocean,Chanel,6Nle9hKrkL1wQpwNfEkxjh,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+"Tyler, The Creator",See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Chance the Rapper,Cocoa Butter Kisses,0aMHIW1lqrulVCx0LLlr6a,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Jay Park,V,0QwWVdreIp1dJZLPHxhLpX,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+DPR IAN,No Blueberries,0sGuE1QPupKA3D0LyZbTaN,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+DPR LIVE,Jasmine,2IgbYlOlFpiSFYnsqB39lM,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+Mac Miller,Good News,3ClBKQkKoaUQ6UOhe2xlJK,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
+DEAN,instagram,6z1kLsntE7FuzKZHZWrXYN,1238107936,3HkZxAVgO3Z0U6fTaNxKTK,1
