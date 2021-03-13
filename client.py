@@ -15,6 +15,7 @@ class SpotifyClient:
         self.api_token = api_token
         self.spotify_id = spotify_id
         self.response_json = None
+        self.num_songs = 0
 
     def playlist_title_prompt(self):
         """
@@ -29,8 +30,9 @@ class SpotifyClient:
 
         spotify_uri = input("Paste Spotify URI here: ")
         self.spotify_id = spotify_uri[17:]
+#         self.num_songs = int(input("Number of songs in this playlist: "))
 
-    def get_playlist_tracks(self):
+    def get_playlist_tracks(self, offset):
         """
         :param limit (int): number of tracks to get... should be less than X
         :param playlist_id (str): the Spotify Playlist ID extracted from user URI
@@ -39,14 +41,19 @@ class SpotifyClient:
         print(self.spotify_id)
         
         #with or without requests.get.... ?
-        url = f"https://api.spotify.com/v1/playlists/{self.spotify_id}"
+        url = f"https://api.spotify.com/v1/playlists/{self.spotify_id}/tracks"
         response = requests.get(
             url,
             headers={
                 "Content-Type": "application/json",
                 "Authorization": f"Bearer {self.api_token}"
+            },
+            params={
+                "offset": offset,
+                "limit": 100
             }
         )
+            
 
         self.response_json = response.json()
         print(self.response_json)
@@ -89,11 +96,11 @@ class SpotifyClient:
 
 def main():
     # Normally would use an OS to store this but cant if we are working together...
-    SPOTIFY_AUTH_TOKEN = 'BQBdDRxg2FxcZ2AoSp9DUJQTi5NcX1uRWnwLmst0nHypW0-YMw_WGvSm00j4AHMTGZf-Z6VcE51PqXeLb0vYpSZ8zpDDCbKzq4_q94KVac1wlGk3_egC8cydo5LXEyEHvCXOXjEpzjIt2Pb7UuWrRH-MDZk-sGA'
+    SPOTIFY_AUTH_TOKEN = 'BQAPzXQWJ_YdqlHrR6hX8JBv6cMvM2-kIrppEcDaJD3vMOHFoLx7KM44EeD9aWswFJU0-9IcYunHWk_9xOY'
     sc = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
     
     sc.playlist_title_prompt()
-    sc.get_playlist_tracks()
+    sc.get_playlist_tracks(200)
     #sc.response_json
     
     
@@ -105,24 +112,51 @@ def main():
 if __name__ == '__main__':
     main()
 
+import pandas as pd
+import numpy as np
+import dask.dataframe as dd
+import dask.array as da
 
+SPOTIFY_AUTH_TOKEN = 'BQADgNfZowgzgVOgMq5hr3QmKZjXzLG4Q_4Pw1i4BxVc3Znz0k9zrHG4iUBOzDu3iRRCp9jhle0_qHmmKIY'
 
 # ----------------------------
 
 
 # for rachel!
 # Normally would use an OS to store this but cant if we are working together...SPOTIFY_AUTH_TOKEN = 'BQBdDRxg2FxcZ2AoSp9DUJQTi5NcX1uRWnwLmst0nHypW0-YMw_WGvSm00j4AHMTGZf-Z6VcE51PqXeLb0vYpSZ8zpDDCbKzq4_q94KVac1wlGk3_egC8cydo5LXEyEHvCXOXjEpzjIt2Pb7UuWrRH-MDZk-sGA'
-sc = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
-    
-sc.playlist_title_prompt()
-sc.get_playlist_tracks()
-print(sc.response_json)
-    
-    
-    
-#get recommendations...\
-#output song.
-#WEB API?
+spotC = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
+
+spotC.playlist_title_prompt()
+spotC.get_playlist_tracks(0)
+playlist_json = spotC.response_json
+print(spotC.response_json)
+
+a = pd.DataFrame()
+l_a = []
+for i in playlist_json['items']:
+    song = i['track']
+    l_a.append([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
+#     print(i['track']['artists'][0]['name'], i['track']['name'])
+b = pd.DataFrame(l_a)
+a = a.append(b, ignore_index = True)
+a.columns = ['artist', 'song', 'song_id', 'user_id', 'rating']
+a[1:50]
+
+# +
+# initial_df = dd.read_csv("data.txt")
+# l_a = []
+# for i in playlist_json['items']:
+#     song = i['track']
+#     l_a.append([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
+# initial_df.append(l_a)
+# pd.Series([song['artists'][0]['name'], song['name'], song['id'], i['added_by']['id'],1])
+# -
+
+l_a
+
+# get recommendations...\
+# output song.
+# WEB API?
 
 # notes
 ['tracks']['items']
@@ -134,3 +168,10 @@ spotify:playlist:1GN4sQhsGhAOfxIaURcC9c
         artist id
         popular id
         > ALS jonathan
+
+# +
+# 1. Saving and writing into csv or txt file. Optimally this would be implemented with distributed computing
+# 2. (Optional) Implement multi-hundreds
+# 3. Find public URLs and add them to our data set
+# 4. Implement PySpark ALS fucntion
+# 5. (Optional) Print images
