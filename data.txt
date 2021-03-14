@@ -1,5 +1,205 @@
 artist,song,song_id,playlist_id,rating
 Drake,Forever,6HSqyfGnsHYw9MmIpa9zlZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Payphone,0iyEaciAmtiv8xMkBg97Fy,1RGcVb0M6nwlDmOJwEYGl9,1
+Train,Drive By,1wAXODAAL6hY64ZdhrnjBO,1RGcVb0M6nwlDmOJwEYGl9,1
+fun.,We Are Young (feat. Janelle Monáe),7a86XRg84qjasly9f6bPSD,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Mraz,I'm Yours,1EzrEOXmMH3G43AXT1y7pA,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Mraz,Lucky,0IktbUcnAGrvD03AWnz3Q8,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,This Love,6ECp64rv50XVz93WvxXMGF,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Misery,6KBYk8OFtod7brGuZ3Y67q,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Wake Up Call,1EOUqRAHU05vxop83JSldi,1RGcVb0M6nwlDmOJwEYGl9,1
+Bad Meets Evil,Lighters,5zpDHEU12zATwLGvozxPw2,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Mraz,I Won't Give Up,05pKAafT85jeeNhZ6kq7HT,1RGcVb0M6nwlDmOJwEYGl9,1
+Neon Trees,Everybody Talks,5JGxJFdgOQdJZdmyEzDtTj,1RGcVb0M6nwlDmOJwEYGl9,1
+Neon Trees,Animal,1fBl642IhJOE5U319Gy2Go,1RGcVb0M6nwlDmOJwEYGl9,1
+Gym Class Heroes,Stereo Hearts (feat. Adam Levine),0qOnSQQF0yzuPWsXrQ9paz,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,One More Night,3wJIAMuPdEoBddWlovWXCX,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Never Gonna Leave This Bed,4ucLHLiSjvkCz5Lr5dlVUj,1RGcVb0M6nwlDmOJwEYGl9,1
+Sara Bareilles,King of Anything,3VA8T3rNy5V24AXxNK5u9E,1RGcVb0M6nwlDmOJwEYGl9,1
+Lupe Fiasco,The Show Goes On,4NTWZqvfQTlOMitlVn6tew,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,Nothing,0c3yfC8zMRJGvmqphczhZb,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,Breakeven,38xWaVFKaxZlMFvzNff2aW,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,For the First Time,09ZcYBGFX16X8GMDrvqQwt,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,The Man Who Can't Be Moved,4Musyaro0NM5Awx8b5c627,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,Hall of Fame (feat. will.i.am),1X1DWw2pcNZ8zSub3uhlNz,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Lucky Strike,1bQfmwLUalBYpD29BTR60i,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Secrets,1NhPKVLsHhFUHIOZ32QnS2,1RGcVb0M6nwlDmOJwEYGl9,1
+fun.,Some Nights,6t6oULCRS6hnI7rm0h5gwl,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Daylight,6TwfdLbaxTKzQi3AgsZNzx,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,U.N.I.,5Ukzlujip1Slqka5OY82YS,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Drunk,4RnCPWlBsY7oUDdyruod7Y,1RGcVb0M6nwlDmOJwEYGl9,1
+The Fray,You Found Me,4IoYz8XqqdowINzfRrFnhi,1RGcVb0M6nwlDmOJwEYGl9,1
+Foster The People,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,1RGcVb0M6nwlDmOJwEYGl9,1
+Gotye,Somebody That I Used To Know,4wCmqSrbyCgxEXROQE6vtV,1RGcVb0M6nwlDmOJwEYGl9,1
+Gavin DeGraw,Not Over You,6j7hih15xG2cdYwIJnQXsq,1RGcVb0M6nwlDmOJwEYGl9,1
+Nelly,The Champ,59qnU7ACYRFKQ2O35D5Onb,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Locked out of Heaven,3w3y8KPTfNeOKPiqUTakBh,1RGcVb0M6nwlDmOJwEYGl9,1
+Michael Bublé,Haven't Met You Yet,0VIiyb6ebpMipzEGMbjqKG,1RGcVb0M6nwlDmOJwEYGl9,1
+Gavin DeGraw,Soldier,0MhCb3iakymVqQIOeYPSUf,1RGcVb0M6nwlDmOJwEYGl9,1
+Gavin DeGraw,Run Every Time,5Au7bkMZvFMDTKSSwyTR5C,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,The A Team,1XpYodsD36XN7ygcdF7mJJ,1RGcVb0M6nwlDmOJwEYGl9,1
+Michael Bublé,All I Want for Christmas Is You,0xPaZrF25ltzvz1a2Pm5DQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,She Will Be Loved,7sapKrjDij2fpDVj0GxP66,1RGcVb0M6nwlDmOJwEYGl9,1
+The Lumineers,Ho Hey,5BSndweF91KDqyxANsZcQH,1RGcVb0M6nwlDmOJwEYGl9,1
+The Lonely Island,Like A Boss,23tFXzIrL3esi2ECP8mprj,1RGcVb0M6nwlDmOJwEYGl9,1
+The Lonely Island,YOLO,1QLphCIfRMZu44Rk1Htp6n,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Timberlake,Suit & Tie,4DIWRIrMWDFdtSIeEo1gou,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,Radioactive,4G8gkOterJn0Ywt6uhqbhp,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,Demons,3LlAyCYU26dvFZBDUIMb7a,1RGcVb0M6nwlDmOJwEYGl9,1
+Train,"Hey, Soul Sister",0KpfYajJVVGgQ32Dby7e9i,1RGcVb0M6nwlDmOJwEYGl9,1
+Train,50 Ways to Say Goodbye,2NniAhAtkRACaMeYt48xlD,1RGcVb0M6nwlDmOJwEYGl9,1
+P!nk,Just Give Me a Reason,1qHaLcG3LOeh6ZB8vii5ZZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Of Monsters and Men,Little Talks,0uZ0orE84drZZzPKxCWSmR,1RGcVb0M6nwlDmOJwEYGl9,1
+Ne-Yo,So Sick,6brl7bwOHmGFkNw3MBqssT,1RGcVb0M6nwlDmOJwEYGl9,1
+Macklemore & Ryan Lewis,Wing$,5n5uyFpfopa4mNdSN0gTaH,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,It's Time,6BtmXhTJMM9sBTHeYYASGz,1RGcVb0M6nwlDmOJwEYGl9,1
+David Choi,By My Side,7I1a30gW4kSszeM7p60ANL,1RGcVb0M6nwlDmOJwEYGl9,1
+David Choi,That Girl,3KyWSDemmWlSowSP86OQaY,1RGcVb0M6nwlDmOJwEYGl9,1
+The Lonely Island,Semicolon,04FQ367F6sMcPDRdgGhJt5,1RGcVb0M6nwlDmOJwEYGl9,1
+The Lonely Island,Jack Sparrow,3qOMYMHbtqNFhfRjXUBzow,1RGcVb0M6nwlDmOJwEYGl9,1
+Train,Drops of Jupiter (Tell Me),2hKdd3qO7cWr2Jo0Bcs0MA,1RGcVb0M6nwlDmOJwEYGl9,1
+Macklemore & Ryan Lewis,Can't Hold Us - feat. Ray Dalton,3bidbhpOYeV4knp8AIu8Xn,1RGcVb0M6nwlDmOJwEYGl9,1
+Phillip Phillips,"Gone, Gone, Gone",20S0KRq4z2v2Utym0C246s,1RGcVb0M6nwlDmOJwEYGl9,1
+Phillip Phillips,Home,6RM5RZ6HF1pxQLCaJgMcuQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Treasure,55h7vJchibLdUkxdlX3fK7,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Lego House,53Pgsvu3qSYO2aXt5J2vcL,1RGcVb0M6nwlDmOJwEYGl9,1
+Snow Patrol,Chasing Cars,11bD1JtSjlIgKgZG2134DZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Anna Kendrick,Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,2sCl0FFOzZSmYZs90zOpd1,1RGcVb0M6nwlDmOJwEYGl9,1
+B.o.B,Magic (feat. Rivers Cuomo),5LLTVSXK5qzEguVHcUNddw,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Runaway Baby,5MMLS3xm12D7N26xlfFApr,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Marry You,22PMfvdz35fFKYnJyMn077,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Count on Me,7l1qvxWjxcKpB9PCtBuTbU,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Viva La Vida,1mea3bSkSGXuIRvnydlB5b,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,It Will Rain,4rMNgxEwGWoPHIUcvB5BrB,1RGcVb0M6nwlDmOJwEYGl9,1
+David Guetta,Titanium (feat. Sia),47Z5890IcjSed81ldeLgqc,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Apologize,1NrJYpdAi7uosDRPmSYrsG,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,All The Right Moves,5XRHGXut00SrJUFmcn2lQF,1RGcVb0M6nwlDmOJwEYGl9,1
+Plain White T's,Rhythm Of Love,6MDTpYxPFL0wtFd0pjfKws,1RGcVb0M6nwlDmOJwEYGl9,1
+Owl City,Good Time,02GjIfCpwttPAikjm5Hwcb,1RGcVb0M6nwlDmOJwEYGl9,1
+Tinie Tempah,Written in the Stars (feat. Eric Turner),61HQWI1Woxup7CnGwVUsdI,1RGcVb0M6nwlDmOJwEYGl9,1
+Macklemore,Thrift Shop (feat. Wanz),1CmUZGtH29Kx36C1Hleqlz,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Love Somebody,0HnaqUxvHP5LaWdmWwJpiS,1RGcVb0M6nwlDmOJwEYGl9,1
+Zedd,Clarity,60wwxj6Dd9NJlirf84wr2c,1RGcVb0M6nwlDmOJwEYGl9,1
+Lorde,Royals,0YAJcefABZHD0D3KcYpSdR,1RGcVb0M6nwlDmOJwEYGl9,1
+JAY-Z,Holy Grail,37jTPJgwCCmIGMPB45jrPV,1RGcVb0M6nwlDmOJwEYGl9,1
+Capital Cities,Safe and Sound,1fzJyTCKeZuTSLByCsLRHl,1RGcVb0M6nwlDmOJwEYGl9,1
+JAY-Z,Tom Ford,1PNGJBI1Lx0h8QCpkHKZLU,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Power Trip (feat. Miguel),1EbWiEra7ovNsMq3DeLSDy,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Counting Stars,1fh2TfUOtOoXEE8qQynYEC,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Timberlake,Mirrors,03gqZZavMKhWbSjdQvpF6O,1RGcVb0M6nwlDmOJwEYGl9,1
+Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Berzerk,3dkKXwgAmYTf2TwYds2E12,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Rap God,6r027Faonff84hxFMjMbIH,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,Gold Digger,1PS1QMdUqOal0ai3Gt7sDQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Donny Osmond,"I'll Make a Man Out of You - From ""Mulan""/Soundtrack",28UMEtwyUUy5u0UWOVHwiI,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Headlights,222dTwr5XeEgAzEtsrQA0R,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Stan,3UmaczJpikHgJFyBTAJVoz,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Now Or Never - Bonus Track,4KjnaUNYPwGnJjoeTFlt91,1RGcVb0M6nwlDmOJwEYGl9,1
+Cris Cab,Paradise (On Earth),3NWetIB9iBT1TZEvOiDDVE,1RGcVb0M6nwlDmOJwEYGl9,1
+American Authors,Best Day Of My Life,5k31cAfP8yymw8v0AYQIjr,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Without Me,7lQ8MOhq6IN2w8EYcFNSUk,1RGcVb0M6nwlDmOJwEYGl9,1
+Passenger,Let Her Go,6GmUVqe73u5YRfUUynZK6I,1RGcVb0M6nwlDmOJwEYGl9,1
+A Great Big World,Say Something,78TKtlSLWK8pZAKKW3MyQL,1RGcVb0M6nwlDmOJwEYGl9,1
+Alex Clare,Too Close,4sK96UnGx3NjBaqvfTG2dm,1RGcVb0M6nwlDmOJwEYGl9,1
+Bastille,Pompeii,3gbBpTdY8lnQwqxNCcf795,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Derulo,Talk Dirty (feat. 2 Chainz),6nCdW7lwO9AlPOepk689AF,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Timberlake,TKO,1iFiByfONHVI62dxIaFZjv,1RGcVb0M6nwlDmOJwEYGl9,1
+B.o.B,So Good,28GUjBGqZVcAV4PHSYzkj2,1RGcVb0M6nwlDmOJwEYGl9,1
+Beyoncé,Drunk in Love (feat. Jay-Z),5EmCpD8tUj78VW3kgaEjME,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,If I Lose Myself,7BVZ62e8J6KIFlAOPFct2C,1RGcVb0M6nwlDmOJwEYGl9,1
+Tyga,Molly,6ycaeJRyCc1Wh1OU9wGMA0,1RGcVb0M6nwlDmOJwEYGl9,1
+Aloe Blacc,The Man,2stPxcgjdSImK7Gizl8ZUN,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Swimming Pools (Drank) - Extended Version,5ujh1I7NZH5agbwf7Hp8Hc,1RGcVb0M6nwlDmOJwEYGl9,1
+Five For Fighting,Superman (It's Not Easy),5RbjZdW8vLZQJpRAZwNIdX,1RGcVb0M6nwlDmOJwEYGl9,1
+John Legend,All of Me,3U4isOIWM3VvDubwSI3y7a,1RGcVb0M6nwlDmOJwEYGl9,1
+Katy Perry,Dark Horse,5jrdCoLpJSvHHorevXBATy,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,m.A.A.d city,2cDCojn6uIBM6A5xTAbl3H,1RGcVb0M6nwlDmOJwEYGl9,1
+Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",0qcr5FMsEO85NAQjrlDRKo,1RGcVb0M6nwlDmOJwEYGl9,1
+D4NNY,Goodbye,65Ym67ejDfssdeaNNVk0Tt,1RGcVb0M6nwlDmOJwEYGl9,1
+Neon Trees,Sleeping With A Friend,0m9VLhVMyNSwRdSrtv7wxj,1RGcVb0M6nwlDmOJwEYGl9,1
+Labrinth,Beneath Your Beautiful (feat. Emeli Sandé),1wVcLKdJ4AFKPhKucNvEpy,1RGcVb0M6nwlDmOJwEYGl9,1
+Alex Clare,Humming Bird,7cLkiMBoZ76q14B6FTvboB,1RGcVb0M6nwlDmOJwEYGl9,1
+MKTO,Classic,2Dz8KeCYs9awlwUJStJlmh,1RGcVb0M6nwlDmOJwEYGl9,1
+X Ambassadors,Jungle,406ZdY9JkmSy7kOGuVflrL,1RGcVb0M6nwlDmOJwEYGl9,1
+Disclosure,Latch,1BltsyC5W3SAABdxyrDXwi,1RGcVb0M6nwlDmOJwEYGl9,1
+IceJJFish,Wrecking Ball,4fLA1eeDmH0lzzw5VgfKLy,1RGcVb0M6nwlDmOJwEYGl9,1
+IceJJFish,On the Floor,0cm53Jz1z1AA7NrfN7VAk6,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,On Top Of The World,4eLSCSELtKxZwXnFbNLXT5,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Timberlake,Not a Bad Thing,1A2UmLDZzDmpdzUjEkCc3z,1RGcVb0M6nwlDmOJwEYGl9,1
+Calvin Harris,Summer,7b71WsDLb8gG0cSyDTFAEW,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Maps,6chdRBWviHlm7JAtwgflBP,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Sing,6K8qKeWo5MsFED7wCR6Kop,1RGcVb0M6nwlDmOJwEYGl9,1
+MAGIC!,Rude,6RtPijgfPKROxEzTHNRiDp,1RGcVb0M6nwlDmOJwEYGl9,1
+The Cinematic Orchestra,To Build A Home,6LK4QAJzm6wPWITxSftVhG,1RGcVb0M6nwlDmOJwEYGl9,1
+DJ Snake,Turn Down for What,67awxiNHNyjMXhVgsHuIrs,1RGcVb0M6nwlDmOJwEYGl9,1
+Young Money,Trophies,1nFgXsg2CUbyK0BJX9cmfj,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Money On My Mind,0N6Bxsif1tT4vHz8tnkjzP,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,V. 3005,1XcQusdnAx3vQtL891EUI5,1RGcVb0M6nwlDmOJwEYGl9,1
+AWOLNATION,Sail,7ueP5u2qkdZbIPN2YA6LR0,1RGcVb0M6nwlDmOJwEYGl9,1
+Arctic Monkeys,Do I Wanna Know?,3jfr0TF6DQcOLat8gGn7E2,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Animals,4O594chXfv4lHvneDP0Ud0,1RGcVb0M6nwlDmOJwEYGl9,1
+Fitz and The Tantrums,The Walker,0Nk7bSn0MItonkR0GNs3mj,1RGcVb0M6nwlDmOJwEYGl9,1
+Trey Songz,Na Na,07wk7gOL46W63TNxCxwATE,1RGcVb0M6nwlDmOJwEYGl9,1
+Rixton,Me And My Broken Heart,41Ypl7Pzkod2H0VlcZH5DS,1RGcVb0M6nwlDmOJwEYGl9,1
+Lorde,Team,3G6hD9B2ZHOsgf4WfNu7X1,1RGcVb0M6nwlDmOJwEYGl9,1
+Rae Sremmurd,No Flex Zone,7HFwdq4tS7TnLtQYiQVPu6,1RGcVb0M6nwlDmOJwEYGl9,1
+Journey,Don't Stop Believin',77NNZQSqzLNqh2A9JhLRkg,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,It Was Always You,0vVWXoVyh091WDmPymCHmf,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,Warriors,2AGP16NS5LsvnskU9PdafD,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Lay Me Down,6x69yrZAJvsYxhk0CJS4uT,1RGcVb0M6nwlDmOJwEYGl9,1
+The Neighbourhood,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Good Thing,3swktvzKx1UOC00HSTEli8,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Stay With Me,4cdv3CQkDVZzZOKm0kaaZu,1RGcVb0M6nwlDmOJwEYGl9,1
+Naughty Boy,La La La,19w0OHr8SiZzRhjpnjctJ4,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Don't,1huvTbEYtgltjQRXzrNKGi,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,0 To 100 / The Catch Up,4jtyUzZm9WLc2AdaJ1dso7,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Maps,0DKT3yIip1M0W0J1HYS1ru,1RGcVb0M6nwlDmOJwEYGl9,1
+Milky Chance,Stolen Dance,57ef886Y0RQDGLm2jvmYEq,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Magic,23khhseCLQqVMCIT1WMAns,1RGcVb0M6nwlDmOJwEYGl9,1
+Bobby Shmurda,Hot N*gga,19gEmPjfqSZT0ulDRfjl0m,1RGcVb0M6nwlDmOJwEYGl9,1
+Big Sean,I Don't Fuck With You,7p54iuWHqvdeN224OglZ9t,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,Talking to the Moon,161DnLWsx1i3u1JT05lzqU,1RGcVb0M6nwlDmOJwEYGl9,1
+The Script,Superheroes,37sINbJZcFdHFAsVNsPq1i,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,I'm Not The Only One,1VbhR6D6zUoSTBzvnRonXO,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Paradise,6nek1Nin9q48AVZcWs9e9D,1RGcVb0M6nwlDmOJwEYGl9,1
+Hozier,Take Me To Church,7dS5EaCoMnN7DzlpT6aRn2,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Thinking out Loud,34gCuhDGsG4bRPIf9bb02f,1RGcVb0M6nwlDmOJwEYGl9,1
+Jeremih,Don't Tell 'Em,1eN27pPLzE59zuFbY8SsiT,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Stop And Stare,48s0QHJgmiNsth3WEO6U4M,1RGcVb0M6nwlDmOJwEYGl9,1
+The Fray,How to Save a Life,5fVZC9GiM4e8vu99W0Xf6J,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Won't Go Home Without You,0tuyEYTaqLxE41yGHSsXjy,1RGcVb0M6nwlDmOJwEYGl9,1
+Michael Bublé,It's Beginning to Look a Lot like Christmas,0lLdorYw7lVrJydTINhWdI,1RGcVb0M6nwlDmOJwEYGl9,1
+Fall Out Boy,Centuries,1N1JEeVv5TO2wQpk7vGVLs,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Guts Over Fear,0VZs2OQq4axr8GFRdC9nyD,1RGcVb0M6nwlDmOJwEYGl9,1
+Owl City,Vanilla Twilight,0vCTQcxSGAgjHaiAsIANKn,1RGcVb0M6nwlDmOJwEYGl9,1
+One Direction,Steal My Girl,3QEdkjBmbgwTnfvuZL9U97,1RGcVb0M6nwlDmOJwEYGl9,1
+O.T. Genasis,CoCo,2JI71GHwq2LN8mtq3iCLYo,1RGcVb0M6nwlDmOJwEYGl9,1
+Mark Ronson,Uptown Funk (feat. Bruno Mars),4rmPQGwcLQjCoFq5NrTA0D,1RGcVb0M6nwlDmOJwEYGl9,1
+Rae Sremmurd,No Type,4Tzf1U3MWwHQosxyWTXJ1Y,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Wet Dreamz,6Ius4TC0L3cN74HT7ENE6e,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,03' Adolescence,4txn9qnwK3ILQqv5oq2mO3,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Fire Squad,4Tjh34RS4ACZ6f6srlDBg8,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,G.O.M.D.,16qYlQ6koFxYVbiJbGHblz,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,January 28th,6NyhBA9M6KK0fuVsojxL00,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Apparently,1HNs07uZxZniPNmniw2GTa,1RGcVb0M6nwlDmOJwEYGl9,1
+ILOVEMAKONNEN,Tuesday (feat. Drake),2znzyzlAUc8Z1Ikq9aFOcx,1RGcVb0M6nwlDmOJwEYGl9,1
+Flo Rida,GDFR (feat. Sage the Gemini & Lookas),6N9ZOtguCnnrvwH7zD82WJ,1RGcVb0M6nwlDmOJwEYGl9,1
+WALK THE MOON,Shut Up and Dance,4kbj5MwxO1bq9wjT5g9HaA,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Princess of China,4HXOBjwv2RnLpGG4xWOO6N,1RGcVb0M6nwlDmOJwEYGl9,1
+Frank Ocean,Thinkin Bout You,7DfFc7a6Rwfi3YQMRbDMau,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Clocks,0BCPKOYdS2jbQ8iyB56Zns,1RGcVb0M6nwlDmOJwEYGl9,1
+Plain White T's,Hey There Delilah,0THbsvMRmCHpFT3YLX301c,1RGcVb0M6nwlDmOJwEYGl9,1
+Plain White T's,"1, 2, 3, 4",5VWmMZCfJ4yVkJw9ZLFXej,1RGcVb0M6nwlDmOJwEYGl9,1
+Gnarls Barkley,Crazy,2N5zMZX7YeL1tico8oQxa9,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Mraz,Love Someone,7mQruvaJWb7U18LX7p3m5r,1RGcVb0M6nwlDmOJwEYGl9,1
+Sheppard,Geronimo,2Pavqy0vPxGilGe0IIetdP,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,I See Fire,5pY3ovFxbvAg7reGZjJQSp,1RGcVb0M6nwlDmOJwEYGl9,1
+Big Sean,One Man Can Change The World,6ZLk6np2KprIGmrSHCdXNa,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,6 God,0GQKP2WgHvBA8Nzb4xZu36,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Like I Can,2DnBQKrh8aodN4dBSdXAUh,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Wayne,6 Foot 7 Foot,0z5ZPs57J2KERwM1tBM2GF,1RGcVb0M6nwlDmOJwEYGl9,1
 Nate Ruess,Nothing Without Love,1lAnSi0iSTbto9WnRcnyC1,1RGcVb0M6nwlDmOJwEYGl9,1
 Drake,Know Yourself,5InOp6q2vvx0fShv3bzFLZ,1RGcVb0M6nwlDmOJwEYGl9,1
 Calvin Harris,Outside (feat. Ellie Goulding),7MmG8p0F9N3C4AXdK6o6Eb,1RGcVb0M6nwlDmOJwEYGl9,1
@@ -99,7 +299,6 @@ Drake,Hype,07GilNHSfS5oicUgHgU7VG,1RGcVb0M6nwlDmOJwEYGl9,1
 Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",6JV2JOEocMgcZxYSZelKcc,1RGcVb0M6nwlDmOJwEYGl9,1
 Twenty One Pilots,Ride,2Z8WuEywRWYTKe1NybPQEW,1RGcVb0M6nwlDmOJwEYGl9,1
 Rihanna,Stay,1dEy9Pl81QopSxNsPxXQxv,1RGcVb0M6nwlDmOJwEYGl9,1
-artist,song,song_id,playlist_id,rating
 Drake,With You,5PMNu7kMZ4msbxiKnDTOt0,1RGcVb0M6nwlDmOJwEYGl9,1
 Drake,Controlla,4CpKEkdGbOJV51cSvx7SoG,1RGcVb0M6nwlDmOJwEYGl9,1
 Drake,Childs Play,0k9RIzZtAo4DTQu0ZM6lNZ,1RGcVb0M6nwlDmOJwEYGl9,1
@@ -150,104 +349,418 @@ Rae Sremmurd,Black Beatles,6fujklziTHa8uoM5OQSfIo,1RGcVb0M6nwlDmOJwEYGl9,1
 The Weeknd,Party Monster,4RhGCDt69efGdC1SxJRI5r,1RGcVb0M6nwlDmOJwEYGl9,1
 Fall Out Boy,The Phoenix,53AuxddsgPSlqM619nJhSd,1RGcVb0M6nwlDmOJwEYGl9,1
 Fall Out Boy,Irresistible,3znPiywA0q1VK2jgAZFDoI,1RGcVb0M6nwlDmOJwEYGl9,1
-artist,song,song_id,playlist_id,rating
-Austin Mahone,All I Ever Need,50x8pt9ZLSXqd3dF3YJYqm,1RGcVb0M6nwlDmOJwEYGl9,1
-Tyler Shaw,House of Cards,2bDtRrhdmaRM6jcJef9Lc2,1RGcVb0M6nwlDmOJwEYGl9,1
-Shawn Mendes,Life Of The Party,0Ks8zrV1CH0ZCLuXNum3Wa,1RGcVb0M6nwlDmOJwEYGl9,1
-Rudimental,Lay It All on Me (feat. Ed Sheeran),60hmtJmGbsAEXC0KCKMlN3,1RGcVb0M6nwlDmOJwEYGl9,1
-George Ezra,Budapest,7q0aQpiLv5tIsupcgQ3Ny4,1RGcVb0M6nwlDmOJwEYGl9,1
-Charlie Puth,One Call Away,2uEJanMvnA1dXgX1ASnPQm,1RGcVb0M6nwlDmOJwEYGl9,1
-Alessia Cara,Here,1wYZZtamWTQAoj8B812uKQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Justin Bieber,Love Yourself,50kpGaPAhYJ3sGmk6vplg0,1RGcVb0M6nwlDmOJwEYGl9,1
-G-Eazy,"Me, Myself & I",40YcuQysJ0KlGQTeGUosTC,1RGcVb0M6nwlDmOJwEYGl9,1
-Daya,Hide Away,2hsza71y54ABzmabyNDtM4,1RGcVb0M6nwlDmOJwEYGl9,1
-Travis Scott,Antidote,1wHZx0LgzFHyeIZkUydNXq,1RGcVb0M6nwlDmOJwEYGl9,1
-Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),2YlZnw2ikdb837oKMKjBkW,1RGcVb0M6nwlDmOJwEYGl9,1
-Imagine Dragons,I Bet My Life,15DrrIod12Tc2IoMaHiwlQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Future,Where Ya At (feat. Drake),5nN8BwAQDJDguq7Dpd3JQQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Justin Bieber,Sorry,09CtPGIpYB4BrO8qb1RGsF,1RGcVb0M6nwlDmOJwEYGl9,1
-Lukas Graham,7 Years,2vDT1uU6hZgdp3PbWGr0Xy,1RGcVb0M6nwlDmOJwEYGl9,1
-Shawn Mendes,I Know What You Did Last Summer,7M9t7BCy51ITF8IMyiemzk,1RGcVb0M6nwlDmOJwEYGl9,1
-Twenty One Pilots,Stressed Out,3CRDbSIZ4r5MsZ0YwxuEkn,1RGcVb0M6nwlDmOJwEYGl9,1
-Stephen Speaks,Out Of My League,6nr9GhZ2D1YLHanSHMHYN1,1RGcVb0M6nwlDmOJwEYGl9,1
-Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),37FXw5QGFN7uwwsLy8uAc0,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Right Hand,3lSR267IJfT54p0Gfuw7mi,1RGcVb0M6nwlDmOJwEYGl9,1
-Bruno Mars,The Other Side (feat. CeeLo Green and B.o.B),0HasfWMrNxTjycDy9TkRtA,1RGcVb0M6nwlDmOJwEYGl9,1
-Selena Gomez,Hands To Myself,1LoriJC05IrHIDwj3q0KC1,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Summer Sixteen,17Q87zeXgsAi9iQQbMu9v0,1RGcVb0M6nwlDmOJwEYGl9,1
-Coldplay,Hymn for the Weekend,3RiPr603aXAoi4GHyXx0uy,1RGcVb0M6nwlDmOJwEYGl9,1
-Adele,When We Were Young,7A2eDNBgJrEVE87C8pOMqN,1RGcVb0M6nwlDmOJwEYGl9,1
-BØRNS,Electric Love,2GiJYvgVaD2HtM8GqD9EgQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Bas,Night Job,1rgiGK1UFUSstew3z0ituh,1RGcVb0M6nwlDmOJwEYGl9,1
-Ed Sheeran,Kiss Me,0Tel1fmuCxEFV6wBLXsEdk,1RGcVb0M6nwlDmOJwEYGl9,1
-Ed Sheeran,Wake Me Up,0ygAYQQy7bfDN6gH640bbl,1RGcVb0M6nwlDmOJwEYGl9,1
-Desiigner,Panda,275a9yzwGB6ncAW4SxY7q3,1RGcVb0M6nwlDmOJwEYGl9,1
-Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",1PWnAEQcbwQwK759otUbta,1RGcVb0M6nwlDmOJwEYGl9,1
-Bryson Tiller,Don't,3pXF1nA74528Edde4of9CC,1RGcVb0M6nwlDmOJwEYGl9,1
-Jeremih,oui,0PJIbOdMs3bd5AT8liULMQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Pop Style,23NWj2izXAJ4yL6Nah73wf,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,One Dance,11hqMWwX7sF3sOGdtijofF,1RGcVb0M6nwlDmOJwEYGl9,1
-gnash,"i hate u, i love u (feat. olivia o'brien)",7vRriwrloYVaoAe3a9wJHe,1RGcVb0M6nwlDmOJwEYGl9,1
-Flume,Never Be Like You (feat. Kai),6y0igZArWVi6Iz0rj35c1Y,1RGcVb0M6nwlDmOJwEYGl9,1
-Timeflies,Once In a While,6cREm4bV7V79Yxdilx9HDo,1RGcVb0M6nwlDmOJwEYGl9,1
-Young Thug,Hercules,5MD2QLnFM2ChpKAh33z0zr,1RGcVb0M6nwlDmOJwEYGl9,1
-O.T. Genasis,Cut It (feat. Young Dolph),376KnY4TrgBITxjlnbnmIy,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Too Good,3BtuIIrQlkujKPuWF2B85z,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Legend,1ID1QFSNNxi0hiZCNcwjUC,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Make Me Proud,0pN1Ld0Fr9DTUaCGbKRvlF,1RGcVb0M6nwlDmOJwEYGl9,1
-Kent Jones,Don't Mind,27PmvZoffODNFW2p7ehZTQ,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,9,4uCAKqQQYJaIvyzq4sZkaO,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Hype,07GilNHSfS5oicUgHgU7VG,1RGcVb0M6nwlDmOJwEYGl9,1
-Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",6JV2JOEocMgcZxYSZelKcc,1RGcVb0M6nwlDmOJwEYGl9,1
-Twenty One Pilots,Ride,2Z8WuEywRWYTKe1NybPQEW,1RGcVb0M6nwlDmOJwEYGl9,1
-Rihanna,Stay,1dEy9Pl81QopSxNsPxXQxv,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,With You,5PMNu7kMZ4msbxiKnDTOt0,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Controlla,4CpKEkdGbOJV51cSvx7SoG,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Childs Play,0k9RIzZtAo4DTQu0ZM6lNZ,1RGcVb0M6nwlDmOJwEYGl9,1
-Twenty One Pilots,Heathens,6i0V12jOa3mr6uu4WYhUBr,1RGcVb0M6nwlDmOJwEYGl9,1
-Shawn Mendes,Treat You Better,1mSlftOO1dlDRXAyOE0Sbd,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Still Here,4YJmZfvlheSziXem8HBWrj,1RGcVb0M6nwlDmOJwEYGl9,1
-Chance the Rapper,No Problem (feat. Lil Wayne & 2 Chainz),0v9Wz8o0BT8DU38R4ddjeH,1RGcVb0M6nwlDmOJwEYGl9,1
-Future,Wicked,6BbINUfGabVyiNFJpQXn3x,1RGcVb0M6nwlDmOJwEYGl9,1
-Shelley FKA DRAM,Broccoli,0qy5D3OJre7SPJNMOL9I71,1RGcVb0M6nwlDmOJwEYGl9,1
-Marc E. Bassy,You & Me,0qRZ9ydGdzeVk3S01pLGoJ,1RGcVb0M6nwlDmOJwEYGl9,1
-Bruno Mars,Liquor Store Blues (feat. Damian Marley),4KykoaJQ5UxjCpp3lYkvTE,1RGcVb0M6nwlDmOJwEYGl9,1
-J. Cole,Trouble,4pqiLICe0uTHb9WfY02ek9,1RGcVb0M6nwlDmOJwEYGl9,1
-J. Cole,A Tale of 2 Citiez,7lL3MvFWFFSD25pBz72Agj,1RGcVb0M6nwlDmOJwEYGl9,1
-Katy Perry,Rise,1CwNogTShsnsn1C8UhRmYX,1RGcVb0M6nwlDmOJwEYGl9,1
-Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",4dASQiO1Eoo3RJvt74FtXB,1RGcVb0M6nwlDmOJwEYGl9,1
-DJ Khaled,For Free (feat. Drake),5TqBAOIBe0bQA0spNdcG3k,1RGcVb0M6nwlDmOJwEYGl9,1
-J. Cole,Forbidden Fruit (feat. Kendrick Lamar),5kpnUpMNV9dPNCKY7JtW3Q,1RGcVb0M6nwlDmOJwEYGl9,1
-Shawn Mendes,Mercy,1oHCgpheYhmhQbhCmbhpWn,1RGcVb0M6nwlDmOJwEYGl9,1
-Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),7nD9nN3jord9wWcfW3Gkcm,1RGcVb0M6nwlDmOJwEYGl9,1
-Young Thug,Pick Up The Phone (feat. Quavo),5NAMZI9lVhxNa6AZp3iQVH,1RGcVb0M6nwlDmOJwEYGl9,1
-Lil Uzi Vert,Money Longer,0B8QzDH7YWih85V5SEMnyJ,1RGcVb0M6nwlDmOJwEYGl9,1
-Joel Adams,Please Don't Go,3cNjgVBKTJ1SvKhunrCdVy,1RGcVb0M6nwlDmOJwEYGl9,1
-The Chainsmokers,Closer,7BKLCZ1jbUBVqRi2FVlTVw,1RGcVb0M6nwlDmOJwEYGl9,1
-Rae Sremmurd,Look Alive,2IGr3q6ljcpLvHDFLtI0yW,1RGcVb0M6nwlDmOJwEYGl9,1
-Rae Sremmurd,Come Get Her,1Ser4X0TKttOvo8bgdytTP,1RGcVb0M6nwlDmOJwEYGl9,1
-J. Cole,Work Out,6rbeWjEavBHvX2kr6lSogS,1RGcVb0M6nwlDmOJwEYGl9,1
-Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),5uDASfU19gDxSjW8cnCaBp,1RGcVb0M6nwlDmOJwEYGl9,1
-Aminé,Caroline,5GFDrUTLGJix84sNhjCG0g,1RGcVb0M6nwlDmOJwEYGl9,1
-DJ Snake,Let Me Love You,0lYBSQXN6rCTvUZvg9S0lU,1RGcVb0M6nwlDmOJwEYGl9,1
-Too $hort,Blow the Whistle,2lMg3lCMOGistaWBNGjuT3,1RGcVb0M6nwlDmOJwEYGl9,1
-Sia,The Greatest,3XIIOCu6B8PuGq5j61asEM,1RGcVb0M6nwlDmOJwEYGl9,1
-Bruno Mars,24K Magic,2gFvRmQiWg9fN9i74Q0aiw,1RGcVb0M6nwlDmOJwEYGl9,1
-OneRepublic,Wherever I Go,7kftK4n15rl1wbpfjSq2Tk,1RGcVb0M6nwlDmOJwEYGl9,1
-Andy Grammer,Fresh Eyes,4nMlau89VAjmV7agkl7OY3,1RGcVb0M6nwlDmOJwEYGl9,1
-Maroon 5,Don't Wanna Know,0AKejOKlGdiB53QpwAeenO,1RGcVb0M6nwlDmOJwEYGl9,1
-Hailee Steinfeld,Starving,4Ce37cRWvM1vIGGynKcs22,1RGcVb0M6nwlDmOJwEYGl9,1
-James Arthur,Say You Won't Let Go,1Pw5C4N6Fn5E4mGCxmbbVa,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Fake Love,6NMNgWgEAzde5M8U3lc6FN,1RGcVb0M6nwlDmOJwEYGl9,1
-Drake,Sneakin’,4ckuS4Nj4FZ7i3Def3Br8W,1RGcVb0M6nwlDmOJwEYGl9,1
-The Weeknd,Starboy,2IY7eOUDjw2ArKYxKa2jXc,1RGcVb0M6nwlDmOJwEYGl9,1
-John Mayer,Heartbreak Warfare,4gs07VlJST4bdxGbBsXVue,1RGcVb0M6nwlDmOJwEYGl9,1
-John Mayer,Dear Marie,5Aq5TIy9jVK70aL7xcE9oa,1RGcVb0M6nwlDmOJwEYGl9,1
-John Mayer,Wildfire,0QTCTu0CXv4X1JEE4gNpGv,1RGcVb0M6nwlDmOJwEYGl9,1
-David Guetta,Without You (feat. Usher),7rGMKCgeYXpBecQ1FPb3oc,1RGcVb0M6nwlDmOJwEYGl9,1
-a-ha,Take on Me,2WfaOiMkCvy7F5fcp2zZ8L,1RGcVb0M6nwlDmOJwEYGl9,1
-Simon & Garfunkel,The Sound of Silence,2LkaNhCrNVmcYgXJeLVmsw,1RGcVb0M6nwlDmOJwEYGl9,1
-Rae Sremmurd,Black Beatles,6fujklziTHa8uoM5OQSfIo,1RGcVb0M6nwlDmOJwEYGl9,1
-The Weeknd,Party Monster,4RhGCDt69efGdC1SxJRI5r,1RGcVb0M6nwlDmOJwEYGl9,1
-Fall Out Boy,The Phoenix,53AuxddsgPSlqM619nJhSd,1RGcVb0M6nwlDmOJwEYGl9,1
-Fall Out Boy,Irresistible,3znPiywA0q1VK2jgAZFDoI,1RGcVb0M6nwlDmOJwEYGl9,1
+Fall Out Boy,American Beauty/American Psycho,3D4Xkcir5YEhk8Xidkd1dL,1RGcVb0M6nwlDmOJwEYGl9,1
+Fall Out Boy,The Kids Aren't Alright,3x7NGlfDKQYN2wnwEnL7r9,1RGcVb0M6nwlDmOJwEYGl9,1
+Fall Out Boy,Uma Thurman,5PUawWFG1oIS2NwEcyHaCr,1RGcVb0M6nwlDmOJwEYGl9,1
+Biz Markie,Just a Friend,3yNVfRQlUPViUh8O2V9SQn,1RGcVb0M6nwlDmOJwEYGl9,1
+The Chainsmokers,All We Know,2rizacJSyD9S1IQUxUxnsK,1RGcVb0M6nwlDmOJwEYGl9,1
+21 Savage,No Heart,4gmmRb6bZJffOOiww1JGTO,1RGcVb0M6nwlDmOJwEYGl9,1
+James Blunt,You're Beautiful,0vg4WnUWvze6pBOJDTq99k,1RGcVb0M6nwlDmOJwEYGl9,1
+James Blunt,Goodbye My Lover,6gxycjJNMgmAyfzUXBN80P,1RGcVb0M6nwlDmOJwEYGl9,1
+TAEYANG,Wedding Dress,0Id5E2O6g3IlGtsl4BDStY,1RGcVb0M6nwlDmOJwEYGl9,1
+The Killers,Mr. Brightside,7oK9VyNzrYvRFo7nQEYkWN,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Something I Need,4KANJH1baadr3U7XsVbM17,1RGcVb0M6nwlDmOJwEYGl9,1
+David Choi,Missing Piece,6a7r59c8dJa22UOfrB8cTJ,1RGcVb0M6nwlDmOJwEYGl9,1
+Auli'i Cravalho,How Far I'll Go,6mb6lVLNrcUgLnEN8QnDJd,1RGcVb0M6nwlDmOJwEYGl9,1
+Dwayne Johnson,You're Welcome,6U4VqEHy4n5VeiH4pQPL24,1RGcVb0M6nwlDmOJwEYGl9,1
+Rachel House,I Am Moana (Song of the Ancestors),6uk7QQiWRDjPHSiSMZlez8,1RGcVb0M6nwlDmOJwEYGl9,1
+Pentatonix,Hallelujah,550rQQCGkrTzvp4SfpOPzx,1RGcVb0M6nwlDmOJwEYGl9,1
+Blue Swede,Hooked on a Feeling,6Ac4NVYYl2U73QiTt11ZKd,1RGcVb0M6nwlDmOJwEYGl9,1
+La La Land Cast,Another Day Of Sun,5kRBzRZmZTXVg8okC7SJFZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Emma Stone,Someone In The Crowd,39ncDMVidHOeQgeC5anYZM,1RGcVb0M6nwlDmOJwEYGl9,1
+Ryan Gosling,A Lovely Night,4r9hiElqKWMPT4Z3vN2exq,1RGcVb0M6nwlDmOJwEYGl9,1
+Ryan Gosling,City Of Stars,5BMwpS4iYKR30kq9U9beaT,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Hurwitz,Planetarium,70RecAVg5QudOXfJs64sM5,1RGcVb0M6nwlDmOJwEYGl9,1
+John Legend,Start A Fire,7cyKrN1y4q59bc1gJX3QEG,1RGcVb0M6nwlDmOJwEYGl9,1
+Emma Stone,Audition (The Fools Who Dream),6j0wBBAP3hMe4t1Ymj7GIe,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Shape of You,0FE9t6xYkqWXU2ahLh6D8X,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Castle on the Hill,66qlqxhEMpSHOzjRK4il0b,1RGcVb0M6nwlDmOJwEYGl9,1
+Atmosphere,Yesterday,61OMCRdMORzZKZ5ury05iG,1RGcVb0M6nwlDmOJwEYGl9,1
+One Direction,History,1Fp6l6zY6qrBg7NuvYgp8n,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,All of the Stars,3SZLtkoHoECHHuOnNkNCuS,1RGcVb0M6nwlDmOJwEYGl9,1
+Migos,Bad and Boujee (feat. Lil Uzi Vert),1FvU97lrWOG2NRxErh6OZz,1RGcVb0M6nwlDmOJwEYGl9,1
+Lupe Fiasco,Battle Scars,1hWYT0w2R0J19rlVkiez7X,1RGcVb0M6nwlDmOJwEYGl9,1
+Ryan Gosling,"City Of Stars - From ""La La Land"" Soundtrack",6XQHlsNu6so4PdglFkJQRJ,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Hurwitz,Epilogue,762K1h8yVV5IgAVuEMpqfZ,1RGcVb0M6nwlDmOJwEYGl9,1
+21 Savage,X (feat. Future),6fwdbPMwP1zVStm8FybmkO,1RGcVb0M6nwlDmOJwEYGl9,1
+Big Sean,Bounce Back,0SGkqnVQo9KPytSri1H6cF,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,How Would You Feel (Paean),1lyNFzcCl9kXCof6GV32fV,1RGcVb0M6nwlDmOJwEYGl9,1
+Smash Mouth,All Star,3cfOd4CMv2snFaKAnMdnvK,1RGcVb0M6nwlDmOJwEYGl9,1
+Iyaz,Replay,5vlEg2fT4cFWAqU5QptIpQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Hot Chelle Rae,Tonight Tonight,2i0AUcEnsDm3dsqLrFWUCq,1RGcVb0M6nwlDmOJwEYGl9,1
+KYLE,iSpy (feat. Lil Yachty),2EEeOnHehOozLq4aS0n6SL,1RGcVb0M6nwlDmOJwEYGl9,1
+ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",3NdDpSvN911VPGivFlV5d0,1RGcVb0M6nwlDmOJwEYGl9,1
+Big Sean,Moves,0Fv5N0cHBsl4bzCbollCAS,1RGcVb0M6nwlDmOJwEYGl9,1
+Ariana Grande,Beauty and the Beast,7wMPhUSe6CZga1vOMpLTJP,1RGcVb0M6nwlDmOJwEYGl9,1
+Emma Watson,Belle,1cPfKp9ThNZ1fez9itmUMN,1RGcVb0M6nwlDmOJwEYGl9,1
+Josh Gad,Gaston,1v7HQKegIjcBAsAsHjnXZU,1RGcVb0M6nwlDmOJwEYGl9,1
+Ewan McGregor,Be Our Guest,1LJtyvOmNOyp0DRpq9of29,1RGcVb0M6nwlDmOJwEYGl9,1
+Jonas Brothers,Burnin' Up,72jGj8k9C7DIQesDYenUT3,1RGcVb0M6nwlDmOJwEYGl9,1
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),7Lk83uozmGWre1q8eyOOUP,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,HUMBLE.,7KXjTSCq5nL1LoYtL7XAwS,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Perfect,0tgVpDi06FyKpA1z0VMD4v,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Dive,51ChrwmUPDJvedPQnIU8Ls,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Galway Girl,0afhq8XCExXpqazXczTSve,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Nancy Mulligan,35QZaWQRkmnAVqBF1TLCxQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,DNA.,6HZILIRieu8S0iqY8kIKhj,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,XXX. FEAT. U2.,4iYRa2btalAzPZoSYfROqF,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,1RGcVb0M6nwlDmOJwEYGl9,1
+Bad Lip Reading,Bushes of Love,75LOt4i3Xlmpu8bFu4kdUR,1RGcVb0M6nwlDmOJwEYGl9,1
+Bad Lip Reading,Seagulls! (Stop It Now),471sXvN5C5vfMSBdKrGpo7,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Dicky,Pillow Talking (feat. Brain),4lh1PamTsomWbFpkOPyfrD,1RGcVb0M6nwlDmOJwEYGl9,1
+High School Musical Cast,Can I Have This Dance - Original Version,6YXG34IWbilypPwjBTOrUC,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,1RGcVb0M6nwlDmOJwEYGl9,1
+Queen,Don't Stop Me Now - Remastered 2011,7hQJA50XrCWABAu5v6QZ4i,1RGcVb0M6nwlDmOJwEYGl9,1
+Queen,Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,1RGcVb0M6nwlDmOJwEYGl9,1
+Queen,Under Pressure - Remastered 2011,11IzgLRXV7Cgek3tEgGgjw,1RGcVb0M6nwlDmOJwEYGl9,1
+Khalid,Location,152lZdxL1OR0ZMW6KquMif,1RGcVb0M6nwlDmOJwEYGl9,1
+DJ Khaled,I'm the One,72Q0FQQo32KJloivv5xge2,1RGcVb0M6nwlDmOJwEYGl9,1
+Travis Scott,goosebumps,6gBFPUFcJLzWGx4lenP6h2,1RGcVb0M6nwlDmOJwEYGl9,1
+Daniel Powter,Bad Day,5rYvoJOJ0y8AYodTdf3Wxi,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Hunt,Body Like A Back Road,7mldq42yDuxiUNn08nvzHO,1RGcVb0M6nwlDmOJwEYGl9,1
+Selena Gomez,Bad Liar,1sCxVKWImDZSZKvG0U9B23,1RGcVb0M6nwlDmOJwEYGl9,1
+Taylor Swift,You Belong With Me,3GCL1PydwsLodcpv0Ll1ch,1RGcVb0M6nwlDmOJwEYGl9,1
+Taylor Swift,Love Story,1vrd6UOGamcKNGnSHJQlSt,1RGcVb0M6nwlDmOJwEYGl9,1
+Taylor Swift,Shake It Off,3fthfkkvy9av3q3uAGVf7U,1RGcVb0M6nwlDmOJwEYGl9,1
+Taylor Swift,Blank Space,2sC2P3BN0IXujNaaSyDmtP,1RGcVb0M6nwlDmOJwEYGl9,1
+Ed Sheeran,Save Myself,6TIU9Ehmi6dMzZK73Ym4yj,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,Thunder,5VnDkUNyX6u5Sk0yZiP8XB,1RGcVb0M6nwlDmOJwEYGl9,1
+Future,Mask Off,3rOSwuTsUlJp0Pu0MkN8r8,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Congratulations,3a1lNhkSLSkpJE4MSHpDu9,1RGcVb0M6nwlDmOJwEYGl9,1
+Imagine Dragons,Believer,0CcQNd8CINkwQfe1RDtGV6,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Portland,2bjwRfXMk4uRgOD9IBYl9h,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Gyalchester,6UjfByV1lDLW0SOVQA4NAi,1RGcVb0M6nwlDmOJwEYGl9,1
+James Bay,Let It Go,13HVjjWUZFaWilh2QUJKsP,1RGcVb0M6nwlDmOJwEYGl9,1
+Luis Fonsi,Despacito - Remix,5CtI0qwDJkDQGwXD1H1cLb,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Uzi Vert,XO TOUR Llif3,2eMwDehkIC1j68U6FA3Eiq,1RGcVb0M6nwlDmOJwEYGl9,1
+Charlie Puth,Attention,4iLqG9SeJSnt0cSPICSjxv,1RGcVb0M6nwlDmOJwEYGl9,1
+Julia Michaels,Issues,6AeQlMyRzvSl1nkFztZyKl,1RGcVb0M6nwlDmOJwEYGl9,1
+Bruno Mars,The Lazy Song,1ExfPZEiahqhLyajhybFeS,1RGcVb0M6nwlDmOJwEYGl9,1
+Backstreet Boys,I Want It That Way,68y6OIiE1nDdI1MLQdJNh8,1RGcVb0M6nwlDmOJwEYGl9,1
+Ruth B.,Lost Boy,4h0zU3O9R5xzuTmNO7dNDU,1RGcVb0M6nwlDmOJwEYGl9,1
+Liam Payne,Strip That Down,6EpRaXYhGOB3fj4V2uDkMJ,1RGcVb0M6nwlDmOJwEYGl9,1
+21 Savage,Bank Account,5eqK0tbzUPo2SoeZsov04s,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,Redbone,3kxfsdsCpFgN412fpnW85Y,1RGcVb0M6nwlDmOJwEYGl9,1
+Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",5bcTCxgc7xVfSaMV3RuVke,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,rockstar,1OmcAT5Y8eg5bUPv9qJT4R,1RGcVb0M6nwlDmOJwEYGl9,1
+Khalid,Young Dumb & Broke,5Z3GHaZ6ec9bsiI5BenrbY,1RGcVb0M6nwlDmOJwEYGl9,1
+Bryson Tiller,Exchange,43PuMrRfbyyuz4QpZ3oAwN,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,Ultralight Beam,1eQBEelI2NCy7AUTerX0KS,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Timberlake,SexyBack (feat. Timbaland),0O45fw2L5vsWpdsOdXwNAR,1RGcVb0M6nwlDmOJwEYGl9,1
+Portugal. The Man,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Sunday Morning,1YI0uK36eupTmw9F8kHysr,1RGcVb0M6nwlDmOJwEYGl9,1
+Eric Dunn,Eat Yo Ass,2F9z5xLcsvKJssY1n1kUJH,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Go Flex,5yuShbu70mtHXY0yLzCQLQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Migos,Slippery (feat. Gucci Mane),6p8NuHm8uCGnn2Dtbtf7zE,1RGcVb0M6nwlDmOJwEYGl9,1
+Vanessa Carlton,A Thousand Miles,4w1lzcaoZ1IC2K5TwjalRP,1RGcVb0M6nwlDmOJwEYGl9,1
+Ayo & Teo,Rolex,0pSBuHjILhNEo55xK1zrRt,1RGcVb0M6nwlDmOJwEYGl9,1
+Josh Groban,Evermore,4t90YkTzNWjis7HM2NqQLQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Big Shaq,Man's Not Hot,6X5OFBbrsHRsyO1zP7udgr,1RGcVb0M6nwlDmOJwEYGl9,1
+Sam Smith,Too Good At Goodbyes,1mXVgsBdtIVeCLJnSnmtdV,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Bieber,Mistletoe,7xapw9Oy21WpfEcib2ErSA,1RGcVb0M6nwlDmOJwEYGl9,1
+Macklemore & Ryan Lewis,Same Love - feat. Mary Lambert,01uqI4H13Gsd8Lyl1EYd8H,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,Crisis (feat. 21 Savage),6GmjF0MtrK8UHQlIh6tzRt,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,Glow Like Dat,4Tulf6yVo59f2ofSi3YUqW,1RGcVb0M6nwlDmOJwEYGl9,1
+Offset,Ric Flair Drip (& Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,1RGcVb0M6nwlDmOJwEYGl9,1
+A$AP Ferg,Plain Jane,4dVpf9jZjcORqGTLUaeYj9,1RGcVb0M6nwlDmOJwEYGl9,1
+Migos,Stir Fry,4fndbjoz1qJyK6JcLdKfzm,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,Gospel,7uuBfgY1vBCalrQRyyQhqs,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Candy Paint,42CeaId2XNlxugDvyqHfDf,1RGcVb0M6nwlDmOJwEYGl9,1
+CyHi The Prynce,Dat Side (feat. Kanye West),6NvSxE4pfP7TcD1OhGgaZW,1RGcVb0M6nwlDmOJwEYGl9,1
+Kris Wu,18,3wrPaT9MQxCG1LQmNvNRed,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,See Me,70zNGrBQwXupGTbNLhSib9,1RGcVb0M6nwlDmOJwEYGl9,1
+Johnny Cash,Hurt,28cnXtME493VX9NOw9cIUh,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,God's Plan,2XW4DbS6NddZxRPm5rMCeY,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Poetic Justice,2P3SLxeQHPqh8qKB6gtJY2,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,"Bitch, Don’t Kill My Vibe",712uvW1Vezq8WpQi38v2L9,1RGcVb0M6nwlDmOJwEYGl9,1
+Corinne Bailey Rae,Put Your Records On,2nGFzvICaeEWjIrBrL2RAx,1RGcVb0M6nwlDmOJwEYGl9,1
+AJ Rafael,We Could Happen,4kDjkFIzZK3MG97Y1yQ3Nm,1RGcVb0M6nwlDmOJwEYGl9,1
+David Choi,This Is a Way,5OjjAufV7cAhI82YrY7jXa,1RGcVb0M6nwlDmOJwEYGl9,1
+Us The Duo,Missin' You Like Crazy,51mwvxRXUktJYBXqq9uXuo,1RGcVb0M6nwlDmOJwEYGl9,1
+Green Day,21 Guns,64yrDBpcdwEdNY9loyEGbX,1RGcVb0M6nwlDmOJwEYGl9,1
+Green Day,Boulevard of Broken Dreams,5GorCbAP4aL0EJ16frG2hd,1RGcVb0M6nwlDmOJwEYGl9,1
+Outkast,Ms. Jackson,0I3q5fE6wg7LIfHGngUTnV,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,King Kunta,0N3W5peJUQtI4eyR6GJT5O,1RGcVb0M6nwlDmOJwEYGl9,1
+Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",17i5jLpzndlQhbS4SrTd0B,1RGcVb0M6nwlDmOJwEYGl9,1
+Zac Efron,Rewrite The Stars,65fpYBrI8o2cfrwf2US4gq,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,IV. Sweatpants,2rmq49FcJ4U3wh1Z7C9UxE,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,Sober,6olUplztLFFfU7fMYmFXOP,1RGcVb0M6nwlDmOJwEYGl9,1
+MadeinTYO,Uber Everywhere,7zBPzAjKAqQpcv8F8GCq5s,1RGcVb0M6nwlDmOJwEYGl9,1
+BlocBoy JB,Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,1RGcVb0M6nwlDmOJwEYGl9,1
+Migos,Narcos,0wbnC9AUenxp613TYaJsGK,1RGcVb0M6nwlDmOJwEYGl9,1
+Miguel,Sky Walker (feat. Travis Scott),5WoaF1B5XIEnWfmb5NZikf,1RGcVb0M6nwlDmOJwEYGl9,1
+Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",4Dw02sVUfUA67l3fZ9FoKs,1RGcVb0M6nwlDmOJwEYGl9,1
+Bazzi,Mine,6tHWl8ows5JOZq9Yfaqn3M,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,1RGcVb0M6nwlDmOJwEYGl9,1
+XXXTENTACION,SAD!,35ieKju5aLWFN5UgfJ27mL,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Same Drugs,6m9qPYXmhge2QhBLfFKnVF,1RGcVb0M6nwlDmOJwEYGl9,1
+Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",51rXHuKN8Loc4sUlKPODgH,1RGcVb0M6nwlDmOJwEYGl9,1
+XXXTENTACION,Look At Me!,6eYxmK9fdL4hwLnXG2zY3s,1RGcVb0M6nwlDmOJwEYGl9,1
+XXXTENTACION,Jocelyn Flores,7m9OqQk4RVRkw9JJdeAw96,1RGcVb0M6nwlDmOJwEYGl9,1
+ABBA,Mamma Mia,22NN4BS1AlqVbyKIWExgON,1RGcVb0M6nwlDmOJwEYGl9,1
+TOTO,Africa,2374M0fQpWi3dLnB54qaLX,1RGcVb0M6nwlDmOJwEYGl9,1
+Logic,1-800-273-8255,5tz69p7tJuGPeMGwNTxYuV,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Dicky,Molly (feat. Brendon Urie of Panic at the Disco),0NBiC3zLXoBQXBjsbnbwJq,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Psycho (feat. Ty Dolla $ign),65NwOZqoXny4JxqAPlfxRF,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Dicky,Freaky Friday (feat. Chris Brown),10Igtw8bSDyyFs7KIsKngZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Juke Jam (feat. Justin Bieber & Towkio),3eze1OsZ1rqeXkKStNfTmi,1RGcVb0M6nwlDmOJwEYGl9,1
+Famous Dex,PICK IT UP (feat. A$AP Rocky),0dSIrRkA4PadGll16TgbnV,1RGcVb0M6nwlDmOJwEYGl9,1
+Rae Sremmurd,Powerglide (feat. Juicy J),2yUbCEiaolfSMluDo9RMmG,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Xan,Betrayed,4vaxvNDaLSoD36iZX515ug,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,KOD,7yotKA30dwTKNEGomV9ZsI,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,ATM,2UciqgwVDwro0fev3MFbxJ,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Motiv8,1AT4xjNarTswd0UZ5FlmKF,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Kevin’s Heart,6tZ3b7ik1QDXFAZlXib0YZ,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Photograph,0bhnUFDQFCEHCBlsQfHnj5,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,1985 - Intro to “The Fall Off”,7EulRO07ZgchxqKUHb8Pvc,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,The Cut Off (feat. kiLL edward),3rFF7kSm5qBOOPs6ljFgPp,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,BRACKETS,5sWbwccBcyHsg5LEKWGZo9,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Window Pain - Outro,5Lgqu1th1KqlG97OF2gWGe,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,FRIENDS (feat. kiLL edward),6onwlDmIVKE8bBgyBRSuS0,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Once an Addict - Interlude,0Px86mRlxdB3YqpK6KXWlr,1RGcVb0M6nwlDmOJwEYGl9,1
+AJ Rafael,She Was Mine (feat. Jesse Barrera),6NV8bM1StHDcWMoTVWix1J,1RGcVb0M6nwlDmOJwEYGl9,1
+Famous Dex,JAPAN,5PTG6rrL6EPFD9E2QMI2pl,1RGcVb0M6nwlDmOJwEYGl9,1
+Khalid,Love Lies (with Normani),45Egmo7icyopuzJN0oMEdk,1RGcVb0M6nwlDmOJwEYGl9,1
+Yung Gravy,Mr. Clean,5GxnROd93Y7NGt2ci0TwBw,1RGcVb0M6nwlDmOJwEYGl9,1
+Yung Gravy,1 Thot 2 Thot Red Thot Blue Thot,6d8MHAb3LSuAz42yyDM4q1,1RGcVb0M6nwlDmOJwEYGl9,1
+Miguel,"Remember Me (Dúo) - From ""Coco"" / Steerner Remix",2FSV4xIabxahlR1drE9XW8,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Stay,4H7WNRErSbONkM06blBoGc,1RGcVb0M6nwlDmOJwEYGl9,1
+Gucci Mane,Both (feat. Drake),5tFep7dXGd7vEJ668wTPux,1RGcVb0M6nwlDmOJwEYGl9,1
+Shawn Mendes,Lost In Japan,6WBTeFDEfAJbaSUUc1V1xQ,1RGcVb0M6nwlDmOJwEYGl9,1
+Shawn Mendes,Where Were You In The Morning?,51wrmElSLxFzc0vSQPeTxs,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,This Is America,0b9oOr2ZgvyQu88wzixux9,1RGcVb0M6nwlDmOJwEYGl9,1
+MAX,Lights Down Low,5A6BJLZArq1MPjsnmcuk5f,1RGcVb0M6nwlDmOJwEYGl9,1
+Haley Reinhart,Can't Help Falling in Love,6yIHGmQLJxWAUZ1ZkENemN,1RGcVb0M6nwlDmOJwEYGl9,1
+John Mayer,New Light,3bH4HzoZZFq8UpZmI2AMgV,1RGcVb0M6nwlDmOJwEYGl9,1
+John Mayer,In the Blood,77Y57qRJBvkGCUw9qs0qMg,1RGcVb0M6nwlDmOJwEYGl9,1
+Adele,Someone Like You,4kflIGfjdZJW4ot2ioixTB,1RGcVb0M6nwlDmOJwEYGl9,1
+Maroon 5,Harder To Breathe,4V9JDRqKjN8F2HWdlEDxvI,1RGcVb0M6nwlDmOJwEYGl9,1
+Christina Perri,Jar of Hearts,0HZhYMZOcUzZKSFwPOti6m,1RGcVb0M6nwlDmOJwEYGl9,1
+5 Seconds of Summer,Youngblood,2iUXsYOEPhVqEBwsqP70rE,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,In My Feelings,0bAkKNCQfWkexHFn7fIKns,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,I'm Upset,1iSZPndzmY6NvL1jAtIvY1,1RGcVb0M6nwlDmOJwEYGl9,1
+Adele,Make You Feel My Love,6P7tTFzn6oNa0GL8w8oazE,1RGcVb0M6nwlDmOJwEYGl9,1
+Adele,Send My Love (To Your New Lover),4BHzQ9C00ceJxfG16AlNWb,1RGcVb0M6nwlDmOJwEYGl9,1
+George Ezra,Barcelona,58Qol5xzalwqF912GE9vQv,1RGcVb0M6nwlDmOJwEYGl9,1
+George Ezra,Paradise,38zwkK6TtTjIW9tpYBfZ3D,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,Peach Jam,6dktyiCWz2JYGmcPQ5D5dY,1RGcVb0M6nwlDmOJwEYGl9,1
+Kenshi Yonezu,ピースサイン,5aHfGUxRec6c41luxkDqhX,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,History,4TwVtW8hS5LyLoDtJGpUOg,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,"Hold On, We're Going Home",2axd59iRySNyY8JlmHcmFn,1RGcVb0M6nwlDmOJwEYGl9,1
+Beyoncé,Single Ladies (Put a Ring on It),5R9a4t5t5O0IsznsrKPVro,1RGcVb0M6nwlDmOJwEYGl9,1
+"Chester See, Kevjumba & Ryan Higa",Nice Guys,2zSKv1vA08xkdYlSEpYe1L,1RGcVb0M6nwlDmOJwEYGl9,1
+"Kevjumba, Ryan Higa & Chester See",Shed a Tear,5OP3V9jco6vq5RwNMtkt9A,1RGcVb0M6nwlDmOJwEYGl9,1
+Sheck Wes,Mo Bamba,3QybPutx0Tjk472bBKjNWn,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Better Now,7dt6x5M1jzdTEt8oCbisTK,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Greatest,2XTquzYQAdT1Hk78bOUwsv,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Not Alike (feat. Royce Da 5'9),28FGV3ORH14MYORd7s5dlU,1RGcVb0M6nwlDmOJwEYGl9,1
+Travis Scott,STARGAZING,7wBJfHzpfI3032CSD7CE2m,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminem,Lucky You (feat. Joyner Lucas),60SdxE8apGAxMiRrpbmLY0,1RGcVb0M6nwlDmOJwEYGl9,1
+DJ Khaled,No Brainer,5WvAo7DNuPRmk4APhdPzi8,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,ELEMENT.,1EaKU4dMbesXXd3BrLCtYG,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,LOYALTY. FEAT. RIHANNA.,6SwRhMLwNqEi6alNPVG00n,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Money Trees,0AOvNRgl0SMfOibWA5bP8o,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,The Recipe (Black Hippy Remix) - Bonus Track,5UHjWOJA6MDl1g3x2HC68V,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,Midsummer Madness,6TodWdTSDfzwgYynTZSvJn,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Jon,Alive (with Offset & 2 Chainz),7w8SYlPLA9bqj7vRHvYNDz,1RGcVb0M6nwlDmOJwEYGl9,1
+Travis Scott,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,1RGcVb0M6nwlDmOJwEYGl9,1
+benny blanco,Eastside (with Halsey & Khalid),0d2iYfpKoM0QCKvcLCkBao,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Angels (feat. Saba),0jx8zY5JQsS4YEQcfkoc5C,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,All We Got (feat. Kanye West & Chicago Children's Choir),3ZLyt2ndLFBh148XRYjYYZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Blessings (feat. Jamila Woods),2VQc9orzwE6a5qFfy54P6e,1RGcVb0M6nwlDmOJwEYGl9,1
+Michael Bublé,Love You Anymore,2GjxDcfAZjYhrxjz2t4qat,1RGcVb0M6nwlDmOJwEYGl9,1
+YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",0ZNrc4kNeQYD9koZ3KvCsy,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,The Scientist,75JFxkI2RXiU7L9VXzMkle,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Yellow,3AJwUDP919kvQ9QcozQPxg,1RGcVb0M6nwlDmOJwEYGl9,1
+Coldplay,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Bieber,Baby,6epn3r7S14KUqlReYr77hA,1RGcVb0M6nwlDmOJwEYGl9,1
+Red Velvet,Bad Boy,5GKwq4sO5ZHKuWaDmdwMQc,1RGcVb0M6nwlDmOJwEYGl9,1
+LOONA,Hi High,0RqzUS7AkBhQDrBxcGFeDv,1RGcVb0M6nwlDmOJwEYGl9,1
+PENTAGON,Shine,7nkp1uuSbKkoxMvEs8cSw0,1RGcVb0M6nwlDmOJwEYGl9,1
+Fitz and The Tantrums,Out of My League,2AYEOC02WLhUiOoaig2SEH,1RGcVb0M6nwlDmOJwEYGl9,1
+DEAN,instagram,6z1kLsntE7FuzKZHZWrXYN,1RGcVb0M6nwlDmOJwEYGl9,1
+Joji,SLOW DANCING IN THE DARK,0UyljEbX9dqI1K0sqdv6B6,1RGcVb0M6nwlDmOJwEYGl9,1
+Kevin Gates,2 Phones,0wdKiSBUT7aZkXUIdJWcwC,1RGcVb0M6nwlDmOJwEYGl9,1
+John Mayer,Your Body Is a Wonderland,7vFv0yFGMJW3qVXbAd9BK9,1RGcVb0M6nwlDmOJwEYGl9,1
+John Mayer,Slow Dancing in a Burning Room,2jdAk8ATWIL3dwT47XpRfu,1RGcVb0M6nwlDmOJwEYGl9,1
+Katy Perry,The One That Got Away,3oL3XRtkP1WVbMxf7dtTdu,1RGcVb0M6nwlDmOJwEYGl9,1
+Metro Boomin,10 Freaky Girls (with 21 Savage),43lYaovU2FoeuBMNusVVVW,1RGcVb0M6nwlDmOJwEYGl9,1
+Ariana Grande,"thank u, next",2rPE9A1vEgShuZxxzR2tZH,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Marvins Room,047fCsbO4NdmwCBn8pcUXl,1RGcVb0M6nwlDmOJwEYGl9,1
+Michael Wong,童話,09oeZoDXXHxQKZnGlewEQu,1RGcVb0M6nwlDmOJwEYGl9,1
+Panic! At The Disco,I Write Sins Not Tragedies,4bPQs0PHn4xbipzdPfn6du,1RGcVb0M6nwlDmOJwEYGl9,1
+Panic! At The Disco,High Hopes,1rqqCSm0Qe4I9rUvWncaom,1RGcVb0M6nwlDmOJwEYGl9,1
+Panic! At The Disco,Death of a Bachelor,1BECwm5qkaBwlbfo4kpYx8,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Passionfruit,5mCPDVBb16L4XQwDdbRUpz,1RGcVb0M6nwlDmOJwEYGl9,1
+Bazzi,Beautiful,5TVirkSwFEXF1nLJEebe2I,1RGcVb0M6nwlDmOJwEYGl9,1
+Ariana Grande,The Way,0S4RKPbRDA72tvKwVdXQqe,1RGcVb0M6nwlDmOJwEYGl9,1
+Ariana Grande,Snow In California,6Uc4EHr3ktYmLfLDY7LifJ,1RGcVb0M6nwlDmOJwEYGl9,1
+21 Savage,a lot,3WXJOVqIyZKSkdLa82PF0L,1RGcVb0M6nwlDmOJwEYGl9,1
+iKON,LOVE SCENARIO,6qAzAmPBUpGrk7XADZHR5k,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Nonstop,0TlLq3lA83rQOYtrqBqSct,1RGcVb0M6nwlDmOJwEYGl9,1
+(G)I-DLE,달려! Relay,7iH3faubNoXfhxmQUzUGGq,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,YES or YES,1S6zXoXhfalX2ETKo337Md,1RGcVb0M6nwlDmOJwEYGl9,1
+BLACKPINK,DDU-DU DDU-DU,7b8YOVV5quZcSKEijDgyWB,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,What is Love?,5m95gCTAiHshTaajznt5fA,1RGcVb0M6nwlDmOJwEYGl9,1
+Jonas Brothers,Lovebug,0JlPOiJFrlFnC5QHcLPyPV,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Headlines,6LxSe8YmdPxy095Ux6znaQ,1RGcVb0M6nwlDmOJwEYGl9,1
+DPR LIVE,Text Me,1dN4Z7wZTQXLEl33RkMO3a,1RGcVb0M6nwlDmOJwEYGl9,1
+Kaleida,Think,6J9kvynZrZnWRZOkyjkV3n,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,TT,4ACeAntCpOxVeIcivmqG4S,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,MIDDLE CHILD,2JvzF1RMd7lE3KmFlsyZD8,1RGcVb0M6nwlDmOJwEYGl9,1
+Red Velvet,RBB (Really Bad Boy),4xjVP2Vogo0C72o6Nevq0W,1RGcVb0M6nwlDmOJwEYGl9,1
+DJ Snake,Middle,0g5EKLgdKvNlln7TNqBByK,1RGcVb0M6nwlDmOJwEYGl9,1
+Taylor Swift,Blank Space,1kHEuJRasudLhjvnbfc4yS,1RGcVb0M6nwlDmOJwEYGl9,1
+The Beatles,Hey Jude - Remastered 2015,0aym2LBJBk9DAYuHHutrIl,1RGcVb0M6nwlDmOJwEYGl9,1
+George Ezra,Shotgun,4ofwffwvvnbSkrMSCKQDaC,1RGcVb0M6nwlDmOJwEYGl9,1
+The Beatles,Let It Be - Remastered 2009,7iN1s7xHE4ifF5povM6A48,1RGcVb0M6nwlDmOJwEYGl9,1
+Joji,TEST DRIVE,1DMEzmAoQIikcL52psptQL,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Love Yourz,4gkl7QbQvBd3TM9PhlWFkI,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Neighbors,0utlOiJy2weVl9WTkcEWHy,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,LIKEY,4g7hiqTP5eXt75XU5WSMMA,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Dance The Night Away,5ilOXZ0vqTX69rjRubPivH,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Signal,2C7ypcfp9B4bCwlQZEVpvu,1RGcVb0M6nwlDmOJwEYGl9,1
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,3KkXRkHbMCARz0aVfEt68P,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,CHEER UP,1D7e4LrjdB4mKaI9XYrmPY,1RGcVb0M6nwlDmOJwEYGl9,1
+BTS,Burning Up (Fire),4z9gBZQjGS4QLb4LOvmeuA,1RGcVb0M6nwlDmOJwEYGl9,1
+OneRepublic,Love Runs Out,5BJSZocnCeSNeYMj3iVqM7,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,1 TO 10,4yNs8ThVCpllJ2OcCNssQF,1RGcVb0M6nwlDmOJwEYGl9,1
+Rex Orange County,Sunflower,4EpZ4eYuZOwPSSwyqpdHnJ,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,OOH-AHH하게 Like OOH-AHH,41r0BLWVIdo7CaKowcUDgM,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,KNOCK KNOCK,4yHirr98dp1NGM569hne9p,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Backseat Freestyle,3aGibUHhQyBsyumYHylw0K,1RGcVb0M6nwlDmOJwEYGl9,1
+JENNIE,SOLO,2XIaetAZTyR7oQfHh8DZ2B,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Nas X,Old Town Road (feat. Billy Ray Cyrus) - Remix,6u7jPi22kF8CTQ3rb9DHE7,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Heart Shaker,4QcHRRDS0ayymLybzKNZq4,1RGcVb0M6nwlDmOJwEYGl9,1
+Khalid,Talk (feat. Disclosure),6TqXcAFInzjp0bODyvrWEq,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,FANCY,60zxdAqWtdDu0vYsbXViA7,1RGcVb0M6nwlDmOJwEYGl9,1
+The Gregory Brothers,Chicken Attack,0Q2bGwvx3oECbpe3W5yyBv,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,다시 해줘 Do it again,6KnkYUz3zXQnftT1fzZcDL,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,거북이 TURTLE,4UfBg1NzbhayZmry10RA0j,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,Plans (feat. Vory),2W8d6AkRCP2qD89z1zK5MJ,1RGcVb0M6nwlDmOJwEYGl9,1
+Jason Mraz,Have It All,7BXW1QCg56yzEBV8pW8pah,1RGcVb0M6nwlDmOJwEYGl9,1
+ITZY,달라달라 (DALLA DALLA),0GU5GuJQQEnnREO2FxnVPT,1RGcVb0M6nwlDmOJwEYGl9,1
+Kurt Hugo Schneider,How To Love,2qvzofDVaSZLsRDg4f3BMU,1RGcVb0M6nwlDmOJwEYGl9,1
+John Denver,"Take Me Home, Country Roads - Rerecorded",2xYlyywNgefLCRDG8hlxZq,1RGcVb0M6nwlDmOJwEYGl9,1
+Colbie Caillat,Bubbly,0rFOs9paloAvEtzwDX1Kmc,1RGcVb0M6nwlDmOJwEYGl9,1
+Red Velvet,Power Up,381g0b6QZxC13SzA2HRMIc,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Touchdown,4V0dFW5rEeJoMpRG9sFt9g,1RGcVb0M6nwlDmOJwEYGl9,1
+Paramore,The Only Exception,7JIuqL4ZqkpfGKQhYlrirs,1RGcVb0M6nwlDmOJwEYGl9,1
+Jasiah,Case 19 (feat. 6ix9ine),6OkOtIWntqERMEJrCCpN9d,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Money In The Grave (Drake ft. Rick Ross),5ry2OE6R2zPQFDO85XkgRb,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Nas X,Panini,6fTt0CH2t0mdeB2N9XFG5r,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Breakthrough,5COO2JgOmHIJ2jsXFwflz8,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,HAPPY HAPPY,1yPkYnRgZveWLCUSWX16ra,1RGcVb0M6nwlDmOJwEYGl9,1
+SUNMI,Gashina,0jFHMDRXxKaREor3hBEEST,1RGcVb0M6nwlDmOJwEYGl9,1
+SEVENTEEN,Don't Wanna Cry,6Upu6yjkdi0DVI8E3IBZEU,1RGcVb0M6nwlDmOJwEYGl9,1
+Joji,Sanctuary,3xaugmCyXrVkrDTXbFkMW3,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Hot Shower,00ko9WaS4jOX1kEk3gvHjf,1RGcVb0M6nwlDmOJwEYGl9,1
+Donnie Trumpet & The Social Experiment,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,1RGcVb0M6nwlDmOJwEYGl9,1
+ITZY,ICY,7zFBtYAVURF3bUVqEQ6UUu,1RGcVb0M6nwlDmOJwEYGl9,1
+Jasiah,Shenanigans (feat. Yung Bans),6Js9pKLTyVw7xZQ1MIjkVo,1RGcVb0M6nwlDmOJwEYGl9,1
+Masayoshi Yamazaki,"One more time, One more chance",7jLlBsf7n6P0qyVTzXLkpu,1RGcVb0M6nwlDmOJwEYGl9,1
+Eminence Symphony Orchestra,"One More Time, One More Chance (Instrumental)",1Xoj5VhDuHYx057aC8ydfA,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,POWER,2gZUPNdnz5Y45eiGxpHGSc,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,All Of The Lights,22L7bfCiAkJo5xGSQgmiIO,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,Monster,1ZHYJ2Wwgxes4m8Ba88PeK,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Sherane a.k.a Master Splinter’s Daughter,0qGFnxDIqGBIq2D3zNbjk9,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,good kid,5vuJuBqwzHJgCA1ysRfwxZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,"Sing About Me, I'm Dying Of Thirst",3q2v8QaTnHLveAQzR6gvYm,1RGcVb0M6nwlDmOJwEYGl9,1
+James Blunt,Cold,2Dpe4Wnm8lQ07nk2SfzvEz,1RGcVb0M6nwlDmOJwEYGl9,1
+Andy Grammer,Keep Your Head Up,4Jz4bjXeiF2SXVj9P4YfY5,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,Feel Special,0u7aRGM7YmvtsmG5NSrNsO,1RGcVb0M6nwlDmOJwEYGl9,1
+Rex Orange County,Best Friend,47Bg6IrMed1GPbxRgwH2aC,1RGcVb0M6nwlDmOJwEYGl9,1
+Gryffin,Feel Good (feat. Daya),0Ev562zA4pmUsBqjxsxxdx,1RGcVb0M6nwlDmOJwEYGl9,1
+ILLENIUM,Good Things Fall Apart (with Jon Bellion),6pooRNiLyYpxZeIA5kJ5EX,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,100 Degrees,2ZDpSQfBdgkooeXw6oj3Uz,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,Indigo,349Wc5mDu52d4Uv8Eg9WZv,1RGcVb0M6nwlDmOJwEYGl9,1
+NIKI,lowkey,5TTXEcfsYLh6fTarLaevTi,1RGcVb0M6nwlDmOJwEYGl9,1
+Jeremy Zucker,comethru,18uwL0vNUanqZH0ro2QcOP,1RGcVb0M6nwlDmOJwEYGl9,1
+Phum Viphurit,Lover Boy,2rd4FH1cSaWGc0ZiUaMbX9,1RGcVb0M6nwlDmOJwEYGl9,1
+NIKI,I Like U,6f7BE3VcZScJx6n3wsf5Z3,1RGcVb0M6nwlDmOJwEYGl9,1
+RADWIMPS,Sparkle - movie ver.,3A4FRzgve9BjfKbvVXRIFO,1RGcVb0M6nwlDmOJwEYGl9,1
+RADWIMPS,Sparkle - English ver.,27dNTCK7lNXAcG7ZMMJe6b,1RGcVb0M6nwlDmOJwEYGl9,1
+The Chainsmokers,Hope,4BiiOzZCrXEzHRLYcYFiD5,1RGcVb0M6nwlDmOJwEYGl9,1
+Jeremy Passion,Lemonade - Ukulele Version,5nJzWhlrBfn3cfDLlaAgAO,1RGcVb0M6nwlDmOJwEYGl9,1
+IZ*ONE,La Vie en Rose,1fRaznZsAB2i63TtmYv2Hc,1RGcVb0M6nwlDmOJwEYGl9,1
+Kendrick Lamar,Alright,3iVcZ5G6tvkXZkZKlMpIUs,1RGcVb0M6nwlDmOJwEYGl9,1
+Daniel Caesar,Best Part (feat. H.E.R.),1RMJOxR6GRPsBHL8qeC2ux,1RGcVb0M6nwlDmOJwEYGl9,1
+Frank Ocean,Super Rich Kids,0725YWm6Z0TpZ6wrNk64Eb,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,I Love You 3000 II,3witRpHWHqArlnt6GTlH2Y,1RGcVb0M6nwlDmOJwEYGl9,1
+Doja Cat,MOOO!,043dDJ9u0PQ3ooAXMgcwOe,1RGcVb0M6nwlDmOJwEYGl9,1
+Mac Miller,Good News,3ClBKQkKoaUQ6UOhe2xlJK,1RGcVb0M6nwlDmOJwEYGl9,1
+Kurtis Blow,Basketball,6IXANTg9CWP73yEXqTHkBx,1RGcVb0M6nwlDmOJwEYGl9,1
+Travis Scott,HIGHEST IN THE ROOM,3eekarcy7kvN4yt5ZFzltW,1RGcVb0M6nwlDmOJwEYGl9,1
+Arizona Zervas,ROXANNE,696DnlkuDOXcMAnKlTgXXK,1RGcVb0M6nwlDmOJwEYGl9,1
+Billy Joel,Piano Man,70C4NyhjD5OZUMzvWZ3njJ,1RGcVb0M6nwlDmOJwEYGl9,1
+Billy Joel,Uptown Girl,5zA8vzDGqPl2AzZkEYQGKh,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Bieber,Running Over (feat. Lil Dicky),75nKBP8jQu681pTNCtrEnn,1RGcVb0M6nwlDmOJwEYGl9,1
+Billy Joel,The Longest Time,5DH7nDryMhpixm4G4B7RP9,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Bieber,Intentions (feat. Quavo),4umIPjkehX1r7uhmGvXiSV,1RGcVb0M6nwlDmOJwEYGl9,1
+Young Thug,Wyclef Jean,55OdqrG8WLmsYyY1jijD9b,1RGcVb0M6nwlDmOJwEYGl9,1
+EARTHGANG,Proud Of U (feat. Young Thug),4u8xrKWeF7xBO9kGwIk6u7,1RGcVb0M6nwlDmOJwEYGl9,1
+Rihanna,FourFiveSeconds,78TTtXnFQPzwqlbtbwqN0y,1RGcVb0M6nwlDmOJwEYGl9,1
+Yung Gravy,Whip A Tesla,6nsyYPCDUSacgXci9mvWln,1RGcVb0M6nwlDmOJwEYGl9,1
+Yung Gravy,Cheryl,18gNzobZV5YD8BhL8o3BTi,1RGcVb0M6nwlDmOJwEYGl9,1
+Miley Cyrus,Party In The U.S.A.,5Q0Nhxo0l2bP3pNjpGJwV1,1RGcVb0M6nwlDmOJwEYGl9,1
+My Chemical Romance,Teenagers,7j31rVgGX9Q2blT92VBEA0,1RGcVb0M6nwlDmOJwEYGl9,1
+Linked Horizon,Shinzo wo Sasageyo!,5uraJqtCBvLpwt3VeomZdq,1RGcVb0M6nwlDmOJwEYGl9,1
+Masatoshi Ono,Departure!,5sjoJa0YmBCCPMrBPsBMge,1RGcVb0M6nwlDmOJwEYGl9,1
+King Gnu,白日,4wel6DQu0dMVBRVn2ZTPoy,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,ハルジオン,7HneEBTvTra2CRYsxgMOAi,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,夜に駆ける,3dPtXHP0oXQ4HCWHsOA9js,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,MORE & MORE,3omvXShuRPM3zbDpWYqf5g,1RGcVb0M6nwlDmOJwEYGl9,1
+TK from Ling tosite sigure,unravel,0GLyqTysS0DFoeKjURtB8s,1RGcVb0M6nwlDmOJwEYGl9,1
+UVERworld,ODD FUTURE,7CFwSQV0rl9oGcvOfEDJCa,1RGcVb0M6nwlDmOJwEYGl9,1
+Men At Work,Down Under,46RVKt5Edm1zl0rXhPJZxz,1RGcVb0M6nwlDmOJwEYGl9,1
+Daniel Caesar,Get You (feat. Kali Uchis),7zFXmv6vqI4qOt4yGf3jYZ,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,Stronger,4fzsfWzRhPawzqhX8Qt9F3,1RGcVb0M6nwlDmOJwEYGl9,1
+"Tyler, The Creator",EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,1RGcVb0M6nwlDmOJwEYGl9,1
+Vampire Weekend,Oxford Comma,2Ml0l8YWJLQhPrRDLpQaDM,1RGcVb0M6nwlDmOJwEYGl9,1
+Vampire Weekend,A-Punk,1595LW73XBxkRk2ciQOHfr,1RGcVb0M6nwlDmOJwEYGl9,1
+A$AP Rocky,Praise The Lord (Da Shine) (feat. Skepta),7ycWLEP1GsNjVvcjawXz3z,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,たぶん,62Lv9WcrfzJqhvYDbilJy3,1RGcVb0M6nwlDmOJwEYGl9,1
+Rex Orange County,Loving Is Easy,5EYi2rH4LYs6M21ZLOyQTx,1RGcVb0M6nwlDmOJwEYGl9,1
+J. Cole,Crooked Smile (feat. TLC),6JG0qhINKVwiHxqN85j7RG,1RGcVb0M6nwlDmOJwEYGl9,1
+Childish Gambino,Bonfire,799f6Ih1Pu4AUApMyXhxUc,1RGcVb0M6nwlDmOJwEYGl9,1
+88rising,Head In The Clouds,3kYARoLSAvt86VFZ55BQcq,1RGcVb0M6nwlDmOJwEYGl9,1
+Drake,Laugh Now Cry Later (feat. Lil Durk),2SAqBLGA283SUiwJ3xOUVI,1RGcVb0M6nwlDmOJwEYGl9,1
+Jack Harlow,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2MbdDtCv5LUVjYy9RuGTgC,1RGcVb0M6nwlDmOJwEYGl9,1
+Frank Ocean,Chanel,6Nle9hKrkL1wQpwNfEkxjh,1RGcVb0M6nwlDmOJwEYGl9,1
+Joji,Gimme Love,0HItcI6qN6Dr4MC3CZryQh,1RGcVb0M6nwlDmOJwEYGl9,1
+BTS,Dynamite,0t1kP63rueHleOhQkYSXFY,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,群青,0T4AitQuq8IJhWBWuZwkFA,1RGcVb0M6nwlDmOJwEYGl9,1
+"Earth, Wind & Fire",September,2grjqo0Frpf2okIBiifQKs,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,I CAN'T STOP ME,37ZtpRBkHcaq6hHy0X98zn,1RGcVb0M6nwlDmOJwEYGl9,1
+Keane,Somewhere Only We Know,0ll8uFnc0nANY35E0Lfxvg,1RGcVb0M6nwlDmOJwEYGl9,1
+Israel Kamakawiwo'ole,Somewhere Over The Rainbow_What A Wonderful World,25U7raB3ZSszayTYClh4hF,1RGcVb0M6nwlDmOJwEYGl9,1
+Internet Money,"Lemonade (feat. Gunna, Don Toliver & NAV)",7hxHWCCAIIxFLCzvDgnQHX,1RGcVb0M6nwlDmOJwEYGl9,1
+mxmtoon,prom dress,2xCGBWfzTe8l2kvHpgvB6M,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Bieber,Holy (feat. Chance The Rapper),5u1n1kITHCxxp8twBcZxWy,1RGcVb0M6nwlDmOJwEYGl9,1
+BTS,Boy With Luv (feat. Halsey),5KawlOMHjWeUjQtnuRs22c,1RGcVb0M6nwlDmOJwEYGl9,1
+John Mayer,Gravity,3SktMqZmo3M9zbB7oKMIF7,1RGcVb0M6nwlDmOJwEYGl9,1
+George Michael,Careless Whisper,4jDmJ51x1o9NZB5Nxxc7gY,1RGcVb0M6nwlDmOJwEYGl9,1
+TWICE,CRY FOR ME,2xtP8RNbo2BEMzLX7tK7aq,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,ハルカ,6wKmxUeMJAoz2GpMrw95z5,1RGcVb0M6nwlDmOJwEYGl9,1
+Soulja Boy,Kiss Me Thru The Phone,2q4rjDy9WhaN3o9MvDbO21,1RGcVb0M6nwlDmOJwEYGl9,1
+Lea Salonga,"A Whole New World - From ""Aladdin"" / Soundtrack Version",1hwdPQtFHISvZ9SXMkNrIK,1RGcVb0M6nwlDmOJwEYGl9,1
+King Gnu,三文小説,7BMKWT0Vw0EKDELXLvuWCp,1RGcVb0M6nwlDmOJwEYGl9,1
+RADWIMPS,Grand Escape (Movie Edit) [feat. Toko Miura],2cE5PbW9PhPmnyETXqH3VE,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,怪物,06XQvnJb53SUYmlWIhUXUi,1RGcVb0M6nwlDmOJwEYGl9,1
+YOASOBI,アンコール,465JzFiajJO59sUrDFsxdC,1RGcVb0M6nwlDmOJwEYGl9,1
+Red Velvet,Psycho,3CYH422oy1cZNoo0GTG1TK,1RGcVb0M6nwlDmOJwEYGl9,1
+DPR LIVE,Jasmine,2IgbYlOlFpiSFYnsqB39lM,1RGcVb0M6nwlDmOJwEYGl9,1
+Lil Uzi Vert,The Way Life Goes (feat. Oh Wonder),2eAZfqOm4EnOF9VvN50Tyc,1RGcVb0M6nwlDmOJwEYGl9,1
+DPR IAN,No Blueberries,0sGuE1QPupKA3D0LyZbTaN,1RGcVb0M6nwlDmOJwEYGl9,1
+Playboi Carti,Vamp Anthem,4CzhtKifG867Lu5DNQVBSA,1RGcVb0M6nwlDmOJwEYGl9,1
+Jay Park,V,0QwWVdreIp1dJZLPHxhLpX,1RGcVb0M6nwlDmOJwEYGl9,1
+IU,Palette (Feat. G-DRAGON),3y7ByLZ05tluscOTRgEJ9Y,1RGcVb0M6nwlDmOJwEYGl9,1
+2Pac,Changes,1ofhfV90EnYhEr7Un2fWiv,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Hurwitz,Herman’s Habit,41oyaP5oa2wdPCmz58D2ja,1RGcVb0M6nwlDmOJwEYGl9,1
+Justin Hurwitz,Mia & Sebastian’s Theme,1joFnRAR5U4kQb34ubZ7sD,1RGcVb0M6nwlDmOJwEYGl9,1
+Joji,ATTENTION,5aqu5xhPqoOWqF71PkfgM8,1RGcVb0M6nwlDmOJwEYGl9,1
+Chance the Rapper,Cocoa Butter Kisses,0aMHIW1lqrulVCx0LLlr6a,1RGcVb0M6nwlDmOJwEYGl9,1
+"Tyler, The Creator",See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,1RGcVb0M6nwlDmOJwEYGl9,1
+Kanye West,Heartless,4EWCNWgDS8707fNSZ1oaA5,1RGcVb0M6nwlDmOJwEYGl9,1
+JAY-Z,No Church In The Wild,3Osd3Yf8K73aj4ySn6LrvK,1RGcVb0M6nwlDmOJwEYGl9,1
+Rich Brian,Drive Safe,6eDfe957aV4sqGnDhlSikJ,1RGcVb0M6nwlDmOJwEYGl9,1

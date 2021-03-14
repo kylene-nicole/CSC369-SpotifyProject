@@ -15,7 +15,6 @@ class SpotifyClient:
         self.api_token = api_token
         self.spotify_id = spotify_id
         self.response_json = None
-        self.num_songs = 0
 
     def playlist_title_prompt(self):
         """
@@ -30,7 +29,6 @@ class SpotifyClient:
 
         spotify_uri = input("Paste Spotify URI here: ")
         self.spotify_id = spotify_uri[17:]
-#         self.num_songs = int(input("Number of songs in this playlist: "))
 
     def get_playlist_tracks(self, offset):
         """
@@ -60,6 +58,7 @@ class SpotifyClient:
         
         print('**************')
         
+        
         #results = response_json['tracks']['items']
         
         #print(results)
@@ -75,6 +74,42 @@ class SpotifyClient:
     https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-recommendations
     https://developer.spotify.com/documentation/web-api/reference/#category-browse
     """
+    
+    def get_playlist_tracks1(self, offset):
+        """
+        :param limit (int): number of tracks to get... should be less than X
+        :param playlist_id (str): the Spotify Playlist ID extracted from user URI
+        :return tracks (list of tracks): List of the playlist tracks
+        """
+        print(self.spotify_id)
+        
+        url = f"https://api.spotify.com/v1/playlists/{self.spotify_id}/tracks"
+        response = requests.get(
+            url,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {self.api_token}"
+            },
+            params={
+                "offset": offset,
+                "limit": 100
+            }
+        )
+        list_json = []
+        list_json.append(response.json())
+        while response.json()['next'] is not None:
+            time.sleep(2)
+            response = requests.get(
+            response.json()['next'],
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {self.api_token}"
+                }
+            )
+            list_json.append(response.json())
+
+        return list_json
+    
     def get_recommendations(self, seed_tracks):
         """
         """
@@ -160,11 +195,13 @@ spotC = SpotifyClient(SPOTIFY_AUTH_TOKEN, "")
 
 # Run script 
 spotC.playlist_title_prompt()
-spotC.get_playlist_tracks(250)
+spotC.get_playlist_tracks(0)
 playlist_json = spotC.response_json
 spotC.response_json
 
-spotC.response_json['next']
+# Playlists with >100 songs
+spotC.playlist_title_prompt()
+all_songs = spotC.get_playlist_tracks1(0)
 
 # +
 # create initial data set (don't use after first run)
@@ -185,54 +222,66 @@ first
 
 # PANDAS
 # update dataset
-def update_pandas(file, json_data, spotify_client):
+def update_pandas(file, json_datas, spotify_client):
     initial_pd = pd.read_csv(file)
     list_add = []
-    for i in json_data['items']:
-        song = i['track']
-        list_add.append([song['artists'][0]['name'], song['name'], song['id'],  spotify_client.spotify_id, 1])
+    for json_data in json_datas:
+        for i in json_data['items']:
+            song = i['track']
+            if song['id'] is not None:
+                list_add.append([song['artists'][0]['name'], song['name'], song['id'],  spotify_client.spotify_id, 1])
     new_pd = pd.DataFrame(list_add, columns = ['artist', 'song', 'song_id',  'playlist_id', 'rating'])
     new_pd.astype({'rating' : initial_pd['rating'].dtype.name})
     final_pd = pd.concat([initial_pd, new_pd], ignore_index = True).drop_duplicates().reset_index(drop=True)
     existing_rows = initial_pd.shape[0]
     new_rows = final_pd.shape[0]
     if existing_rows < new_rows:
-        final_pd.loc[existing_rows:].to_csv('data.txt', index=None, sep=',',mode='a')
+        final_pd.loc[existing_rows:].to_csv('data.txt', index=None, sep=',',mode='a', header = False)
         return final_pd
     return "No new songs to add"
 
 
 start = time.time()
-update_pandas("data.txt", playlist_json, spotC)
+update_pandas("data.txt", all_songs, spotC)
 end = time.time()
 print(end - start)
 
 
 # DASK update dataset
-def update_dask(file, json_data, spotify_client, chunk = 50):
+def update_dask(file, json_datas, spotify_client, chunk = 200):
+    start = time.time()
     initial_dd = dd.read_csv(file)
     list_dd = []
-    for i in json_data['items']:
-        song = i['track']
-        list_dd.append([song['artists'][0]['name'], song['name'], song['id'],  spotify_client.spotify_id, 1])
+    for json_data in json_datas:
+        for i in json_data['items']:
+            song = i['track']
+            if song['id'] is not None:
+                list_dd.append([song['artists'][0]['name'], song['name'], song['id'],  spotify_client.spotify_id, 1])
+    end = time.time()
+    print(end - start)
 
     new_pd = pd.DataFrame(list_dd, columns = ['artist', 'song', 'song_id', 'playlist_id', 'rating'])
-    new_pd.astype({'rating' : initial_pd['rating'].dtype.name})
+    new_pd.astype({'rating' : 'int64'})
     new_dd = dd.from_pandas(new_pd, chunksize = chunk)
     final_dd = dd.concat([initial_dd, new_dd], axis=0,interleave_partitions=True).drop_duplicates().reset_index(drop=True)
+    
+    end = time.time()
+    print(end - start)
 
     existing_rows = initial_dd.shape[0]
     new_rows = final_dd.shape[0]
     if existing_rows.compute() < new_rows.compute():
-        final_dd.loc[existing_rows:].to_csv('data.txt', index=None, sep=',',mode='a')
+        final_dd.loc[existing_rows:].to_csv('data.txt', index=None, sep=',',mode='a', header = False)
+        
+        end = time.time()
+        print(end - start)
         return final_dd
     return "No new songs to add"
 
-start = time.time()
-update_dask("data.txt", playlist_json, spotC)
-end = time.time()
-print(end - start)
-
+# start = time.time()
+update_dask("data.txt", all_songs, spotC)
+# end = time.time()
+# print(end - start)
 
 # SPARK update dataset
 # notes: method cannot specify saved file name
